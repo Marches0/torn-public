@@ -1,1634 +1,1629 @@
 {
-    "alliances": [
-      {
-        "name": "CRyPTo",
-        "children": [
-          {
-            "name": "Arcadia",
-            "id": 8938,
-            "children": []
-          },
-          {
-            "name": "Asylum 2.0",
-            "id": 16053,
-            "children": []
-          },
-          {
-            "name": "Avalon",
-            "id": 9357,
-            "children": []
-          },
-          {
-            "name": "Blood Money",
-            "id": 41853,
-            "children": []
-          },
-          {
-            "name": "Brazilian Unit",
-            "id": 13842,
-            "children": []
-          },
-          {
-            "name": "Capacity X",
-            "id": 16247,
-            "children": []
-          },
-          {
-            "name": "Chain Reaction",
-            "children": [
-              {
-                "name": "Catalysis",
-                "id": 89,
-                "children": []
-              },
-              {
-                "name": "Chain Reaction",
-                "id": 16628,
-                "children": []
-              },
-              {
-                "name": "Chromatic",
-                "id": 8151,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Deja",
-            "id": 9689,
-            "children": []
-          },
-          {
-            "name": "Escensio Incursus",
-            "id": 21368,
-            "children": []
-          },
-          {
-            "name": "Itsi Bitsi Bikini",
-            "children": [
-              {
-                "name": "Aquarius",
-                "id": 22295,
-                "children": []
-              },
-              {
-                "name": "Ghost Ship",
-                "id": 5431,
-                "children": []
-              },
-              {
-                "name": "Itsi Bitsi Bikini",
-                "id": 2736,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Legitimate Business",
-            "id": 9305,
-            "children": []
-          },
-          {
-            "name": "Lingering Insanity",
-            "id": 8400,
-            "children": []
-          },
-          {
-            "name": "MORTAL LEGENDS",
-            "id": 95,
-            "children": []
-          },
-          {
-            "name": "Naughty Souls",
-            "id": 8317,
-            "children": []
-          },
-          {
-            "name": "Nite",
-            "children": [
-              {
-                "name": "Bloody Sloths",
-                "id": 7282,
-                "children": []
-              },
-              {
-                "name": "Midnight Ghosts",
-                "id": 19982,
-                "children": []
-              },
-              {
-                "name": "Midnight Plague",
-                "id": 23952,
-                "children": []
-              },
-              {
-                "name": "Midnight X",
-                "id": 8715,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "NNGO",
-            "children": [
-              {
-                "name": "NNGO",
-                "id": 8537,
-                "children": []
-              },
-              {
-                "name": "NNGO - Nugget Farm",
-                "id": 40200,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "OccamsRazers",
-            "id": 48628,
-            "children": []
-          },
-          {
-            "name": "OverWatch",
-            "id": 9517,
-            "children": []
-          },
-          {
-            "name": "PT",
-            "children": [
-              {
-                "name": "PT-Calculated",
-                "id": 9041,
-                "children": []
-              },
-              {
-                "name": "PT-Family",
-                "id": 230,
-                "children": []
-              },
-              {
-                "name": "PT-IronHearts",
-                "id": 946,
-                "children": []
-              },
-              {
-                "name": "PT-Penguins",
-                "id": 13665,
-                "children": []
-              },
-              {
-                "name": "PT-ShadowRazers",
-                "id": 478,
-                "children": []
-              },
-              {
-                "name": "PT-Torntuga",
-                "id": 41775,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "REK",
-            "children": [
-              {
-                "name": "REK II",
-                "id": 10856,
-                "children": []
-              },
-              {
-                "name": "REK&morty",
-                "id": 18090,
-                "children": []
-              },
-              {
-                "name": "REKroot",
-                "id": 42681,
-                "children": []
-              },
-              {
-                "name": "Romania Elite Kommando",
-                "id": 18569,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Riot",
-            "id": 41419,
-            "children": []
-          },
-          {
-            "name": "Rising Reckoning",
-            "id": 20554,
-            "children": []
-          },
-          {
-            "name": "The Four Twenty C-K-A",
-            "id": 16503,
-            "children": []
-          },
-          {
-            "name": "The House Of Retribution",
-            "id": 12912,
-            "children": []
-          },
-          {
-            "name": "The Revenant",
-            "children": [
-              {
-                "name": "The Revenant",
-                "id": 46708,
-                "children": []
-              },
-              {
-                "name": "The Revenant Reserve",
-                "id": 48140,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "The Rifles",
-            "children": [
-              {
-                "name": "The Rifle Company",
-                "id": 10566,
-                "children": []
-              },
-              {
-                "name": "The Rifle Medics",
-                "id": 26154,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "The Sick Bay",
-            "id": 11539,
-            "children": []
-          },
-          {
-            "name": "The ZOO",
-            "id": 15151,
-            "children": []
-          },
-          {
-            "name": "Too Sober for this Shit",
-            "id": 40420,
-            "children": []
-          },
-          {
-            "name": "Vinerri",
-            "children": [
-              {
-                "name": "Little Famiglia",
-                "id": 19060,
-                "children": []
-              },
-              {
-                "name": "Shadow Healers",
-                "id": 38761,
-                "children": []
-              },
-              {
-                "name": "Vinerri",
-                "id": 8836,
-                "children": []
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "JFK",
-        "children": [
-          {
-            "name": "Alley Cats",
-            "id": 7652,
-            "children": []
-          },
-          {
-            "name": "Bagan Dynasty",
-            "id": 21234,
-            "children": []
-          },
-          {
-            "name": "Delightful Assholes",
-            "id": 26312,
-            "children": []
-          },
-          {
-            "name": "JFK",
-            "children": [
-              {
-                "name": "JFK",
-                "id": 3241,
-                "children": []
-              },
-              {
-                "name": "JFK - Future Killers",
-                "id": 14821,
-                "children": []
-              },
-              {
-                "name": "JFK 2.1",
-                "id": 14365,
-                "children": []
-              },
-              {
-                "name": "JFR",
-                "id": 6924,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Order Through Chaos",
-            "id": 8076,
-            "children": []
-          },
-          {
-            "name": "Swiss Squad",
-            "id": 11428,
-            "children": []
-          },
-          {
-            "name": "The Black Hand",
-            "id": 9100,
-            "children": []
-          },
-          {
-            "name": "The Drunk Tank",
-            "id": 9953,
-            "children": []
-          },
-          {
-            "name": "The Quidnunks HQ",
-            "id": 10174,
-            "children": []
-          },
-          {
-            "name": "The Red Knights",
-            "id": 25001,
-            "children": []
-          },
-          {
-            "name": "Valhalla - Barna",
-            "id": 38668,
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "OBN",
-        "children": [
-          {
-            "name": "39th Street",
-            "children": [
-              {
-                "name": "39th Street Chillers",
-                "id": 22680,
-                "children": []
-              },
-              {
-                "name": "39th Street Healers",
-                "id": 7049,
-                "children": []
-              },
-              {
-                "name": "39th Street Killers",
-                "id": 19,
-                "children": []
-              },
-              {
-                "name": "39th Street Killers X",
-                "id": 16312,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Aurora",
-            "children": [
-              {
-                "name": "-Aurora-",
-                "id": 32395,
-                "children": []
-              },
-              {
-                "name": "-Borealis-",
-                "id": 13180,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Born For War",
-            "id": 41702,
-            "children": []
-          },
-          {
-            "name": "Buttgrass Inc",
-            "id": 8803,
-            "children": []
-          },
-          {
-            "name": "Destructive Anomaly",
-            "children": [
-              {
-                "name": "Dead or Alive",
-                "id": 13502,
-                "children": []
-              },
-              {
-                "name": "Destructive Anomaly",
-                "id": 231,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "DP Warriors",
-            "id": 25025,
-            "children": []
-          },
-          {
-            "name": "Dystopia",
-            "id": 22492,
-            "children": []
-          },
-          {
-            "name": "Elemental",
-            "children": [
-              {
-                "name": "Aurum",
-                "id": 15222,
-                "children": []
-              },
-              {
-                "name": "Carbon",
-                "id": 8706,
-                "children": []
-              },
-              {
-                "name": "Lithium",
-                "id": 10820,
-                "children": []
-              },
-              {
-                "name": "Xenon",
-                "id": 8520,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Iron Rose Cartel",
-            "id": 6895,
-            "children": []
-          },
-          {
-            "name": "Medic!!",
-            "id": 40992,
-            "children": []
-          },
-          {
-            "name": "Natural Selection",
-            "children": [
-              {
-                "name": "Natural Selection",
-                "id": 9533,
-                "children": []
-              },
-              {
-                "name": "Natural Selection II",
-                "id": 11747,
-                "children": []
-              },
-              {
-                "name": "Natural Selection III",
-                "id": 11581,
-                "children": []
-              },
-              {
-                "name": "Natural Selection IV",
-                "id": 9055,
-                "children": []
-              },
-              {
-                "name": "NS Bomb Shelter",
-                "id": 21526,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "New Sith Order",
-            "children": [
-              {
-                "name": "New Sith Order",
-                "id": 15644,
-                "children": []
-              },
-              {
-                "name": "New Sith Order II",
-                "id": 12894,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "NPO",
-            "children": [
-              {
-                "name": "NPO - Endurance",
-                "id": 14052,
-                "children": []
-              },
-              {
-                "name": "NPO - Peace",
-                "id": 18714,
-                "children": []
-              },
-              {
-                "name": "NPO - Prosperity",
-                "id": 44758,
-                "children": []
-              },
-              {
-                "name": "NPO - Strength",
-                "id": 10610,
-                "children": []
-              },
-              {
-                "name": "NPO - Valour",
-                "id": 26885,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Rabid Chihuahuas",
-            "id": 36691,
-            "children": []
-          },
-          {
-            "name": "Razers",
-            "id": 40449,
-            "children": []
-          },
-          {
-            "name": "Reign of Confusion",
-            "id": 23188,
-            "children": []
-          },
-          {
-            "name": "Retaliation",
-            "id": 10296,
-            "children": []
-          },
-          {
-            "name": "Ruthless Reborn",
-            "children": [
-              {
-                "name": "Ruthless Reborn",
-                "id": 8062,
-                "children": []
-              },
-              {
-                "name": "Ruthless Reborn II",
-                "id": 48965,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "WarBirds",
-            "children": [
-              {
-                "name": "The Nest",
-                "id": 35507,
-                "children": []
-              },
-              {
-                "name": "WarBirds",
-                "id": 13784,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Whanau",
-            "children": [
-              {
-                "name": "BLACK STATUES",
-                "id": 9412,
-                "children": []
-              },
-              {
-                "name": "HAKA",
-                "id": 33007,
-                "children": []
-              },
-              {
-                "name": "ODB",
-                "id": 42125,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "White Rabbits",
-            "id": 30009,
-            "children": []
-          },
-          {
-            "name": "Winter is Coming",
-            "children": [
-              {
-                "name": "The Nights Watch",
-                "id": 42650,
-                "children": []
-              },
-              {
-                "name": "Winter is Coming",
-                "id": 16040,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "WTF",
-            "children": [
-              {
-                "name": "WTF",
-                "id": 1149,
-                "children": []
-              },
-              {
-                "name": "WTF Healers",
-                "id": 12863,
-                "children": []
-              },
-              {
-                "name": "WTF Medical",
-                "id": 29865,
-                "children": []
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "RoD",
-        "children": [
-          {
-            "name": "7th St. Assassins",
-            "id": 16634,
-            "children": []
-          },
-          {
-            "name": "Baby Champers",
-            "id": 35840,
-            "children": []
-          },
-          {
-            "name": "BoW - Hidden Shadows",
-            "id": 42505,
-            "children": []
-          },
-          {
-            "name": "Brotherhood of Darkness",
-            "id": 49763,
-            "children": []
-          },
-          {
-            "name": "C2C",
-            "id": 15286,
-            "children": []
-          },
-          {
-            "name": "Catch 22",
-            "id": 37185,
-            "children": []
-          },
-          {
-            "name": "Clockwork Orange",
-            "id": 44865,
-            "children": []
-          },
-          {
-            "name": "Coma Toast",
-            "id": 49837,
-            "children": []
-          },
-          {
-            "name": "Cosmosis",
-            "id": 48526,
-            "children": []
-          },
-          {
-            "name": "Crime Syndicate",
-            "id": 43325,
-            "children": []
-          },
-          {
-            "name": "Damage Inc",
-            "children": [
-              {
-                "name": "Brain Damage",
-                "id": 48112,
-                "children": []
-              },
-              {
-                "name": "Damage Inc",
-                "id": 20747,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Dog Pen Mafia",
-            "id": 41297,
-            "children": []
-          },
-          {
-            "name": "Endless Endeavor",
-            "id": 14686,
-            "children": []
-          },
-          {
-            "name": "EPIC Mafia",
-            "id": 40959,
-            "children": []
-          },
-          {
-            "name": "Fluffle",
-            "id": 13872,
-            "children": []
-          },
-          {
-            "name": "Get Stuffed",
-            "id": 8285,
-            "children": []
-          },
-          {
-            "name": "Glyndwr",
-            "id": 47495,
-            "children": []
-          },
-          {
-            "name": "Goblin Horde",
-            "id": 13307,
-            "children": []
-          },
-          {
-            "name": "Imminent Apocalypse",
-            "children": [
-              {
-                "name": "IA Black",
-                "id": 35776,
-                "children": []
-              },
-              {
-                "name": "IA Hookers & Blow",
-                "id": 9674,
-                "children": []
-              },
-              {
-                "name": "Imminent Apocalypse",
-                "id": 25874,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Impulse",
-            "children": [
-              {
-                "name": "Also Impulse",
-                "id": 11376,
-                "children": []
-              },
-              {
-                "name": "Impulse",
-                "id": 33783,
-                "children": []
-              },
-              {
-                "name": "Impulse 13!",
-                "id": 8811,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Materia",
-            "id": 23193,
-            "children": []
-          },
-          {
-            "name": "Onion Smugglers",
-            "id": 6974,
-            "children": []
-          },
-          {
-            "name": "Pawsitive Medics",
-            "id": 38887,
-            "children": []
-          },
-          {
-            "name": "Peaky CS",
-            "id": 41234,
-            "children": []
-          },
-          {
-            "name": "Plague Inc.",
-            "id": 11782,
-            "children": []
-          },
-          {
-            "name": "Princess Dale's Beavers",
-            "id": 36140,
-            "children": []
-          },
-          {
-            "name": "RHINO'S CARTEL",
-            "id": 49167,
-            "children": []
-          },
-          {
-            "name": "SA",
-            "children": [
-              {
-                "name": "SA  Equilibrium",
-                "id": 27312,
-                "children": []
-              },
-              {
-                "name": "SA Infinite - Recruiting",
-                "id": 13383,
-                "children": []
-              },
-              {
-                "name": "SA Ministry of Mayhem",
-                "id": 525,
-                "children": []
-              },
-              {
-                "name": "SA One  Punch",
-                "id": 33458,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "School of Devlins",
-            "id": 16296,
-            "children": []
-          },
-          {
-            "name": "Shiba Inu",
-            "id": 46089,
-            "children": []
-          },
-          {
-            "name": "Shiny Hoard Avian Team",
-            "id": 28073,
-            "children": []
-          },
-          {
-            "name": "Spawtans",
-            "id": 27554,
-            "children": []
-          },
-          {
-            "name": "Sport Club",
-            "id": 937,
-            "children": []
-          },
-          {
-            "name": "TBA",
-            "children": [
-              {
-                "name": "TBA - Rise Above",
-                "id": 6834,
-                "children": []
-              },
-              {
-                "name": "TBA-Rise Again",
-                "id": 40951,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "The Black Pearl",
-            "id": 9036,
-            "children": []
-          },
-          {
-            "name": "The Brotherhood of War",
-            "id": 13377,
-            "children": []
-          },
-          {
-            "name": "The Collective",
-            "children": [
-              {
-                "name": "Blue Rock Collective",
-                "id": 7935,
-                "children": []
-              },
-              {
-                "name": "The Collective JTF",
-                "id": 7227,
-                "children": []
-              },
-              {
-                "name": "The Collective Resistance",
-                "id": 18597,
-                "children": []
-              },
-              {
-                "name": "The Phoenix Collective",
-                "id": 17991,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "The Covenant",
-            "id": 21716,
-            "children": []
-          },
-          {
-            "name": "The Fallen",
-            "id": 15154,
-            "children": []
-          },
-          {
-            "name": "The Hogs",
-            "id": 44467,
-            "children": []
-          },
-          {
-            "name": "The Railroad",
-            "id": 37498,
-            "children": []
-          },
-          {
-            "name": "The Resolute",
-            "id": 46442,
-            "children": []
-          },
-          {
-            "name": "The Unwoke",
-            "id": 8152,
-            "children": []
-          },
-          {
-            "name": "Toxic Reign",
-            "id": 40624,
-            "children": []
-          },
-          {
-            "name": "WARTORN",
-            "id": 34623,
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Westworld",
-        "children": [
-          {
-            "name": "~Twisted~",
-            "id": 14078,
-            "children": []
-          },
-          {
-            "name": "Abusement Park",
-            "id": 39756,
-            "children": []
-          },
-          {
-            "name": "Aurora Surrealis",
-            "id": 12249,
-            "children": []
-          },
-          {
-            "name": "Bloodbath and Beyond",
-            "id": 8468,
-            "children": []
-          },
-          {
-            "name": "Dark Arts",
-            "children": [
-              {
-                "name": "Dark Arts",
-                "id": 16299,
-                "children": []
-              },
-              {
-                "name": "Dark Demons",
-                "id": 48572,
-                "children": []
-              },
-              {
-                "name": "DarkHearts",
-                "id": 9047,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Darkside",
-            "id": 12893,
-            "children": []
-          },
-          {
-            "name": "Dead Body Crew",
-            "id": 39580,
-            "children": []
-          },
-          {
-            "name": "Desert Eagle",
-            "id": 27370,
-            "children": []
-          },
-          {
-            "name": "Destination Unknown",
-            "id": 9201,
-            "children": []
-          },
-          {
-            "name": "Disorderly Conduct",
-            "id": 30584,
-            "children": []
-          },
-          {
-            "name": "Dopeheads on Mopeds",
-            "children": [
-              {
-                "name": "Dopeheads on Mopeds",
-                "id": 14760,
-                "children": []
-              },
-              {
-                "name": "Druggies in Snuggies",
-                "id": 15446,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "FLATLINE",
-            "children": [
-              {
-                "name": "BLOODLINE",
-                "id": 41028,
-                "children": []
-              },
-              {
-                "name": "DEADLINE",
-                "id": 48912,
-                "children": []
-              },
-              {
-                "name": "FLATLINE",
-                "id": 36891,
-                "children": []
-              },
-              {
-                "name": "LIFELINE",
-                "id": 38481,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Free Xanax",
-            "id": 12645,
-            "children": []
-          },
-          {
-            "name": "Gangsta's Paradise",
-            "id": 17845,
-            "children": []
-          },
-          {
-            "name": "Gladiators",
-            "id": 49147,
-            "children": []
-          },
-          {
-            "name": "Glory to Heroes",
-            "id": 16057,
-            "children": []
-          },
-          {
-            "name": "Good Guys",
-            "id": 39549,
-            "children": []
-          },
-          {
-            "name": "Halos",
-            "children": [
-              {
-                "name": "Halos",
-                "id": 40918,
-                "children": []
-              },
-              {
-                "name": "Halos Army",
-                "id": 42961,
-                "children": []
-              },
-              {
-                "name": "Halos Rise",
-                "id": 16079,
-                "children": []
-              },
-              {
-                "name": "Halos Wisemen",
-                "id": 49384,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Honey Badgers Medical",
-            "id": 11522,
-            "children": []
-          },
-          {
-            "name": "Imperium",
-            "children": [
-              {
-                "name": "Imperial MediHaven",
-                "id": 12255,
-                "children": []
-              },
-              {
-                "name": "The Inquisition",
-                "id": 15929,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Infernum",
-            "children": [
-              {
-                "name": "Infernum Apocalypse",
-                "id": 48640,
-                "children": []
-              },
-              {
-                "name": "Infernum Perdition",
-                "id": 11131,
-                "children": []
-              },
-              {
-                "name": "Infernum Spawned",
-                "id": 17055,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "insurreXtion",
-            "id": 2095,
-            "children": []
-          },
-          {
-            "name": "Little Stompers",
-            "id": 27223,
-            "children": []
-          },
-          {
-            "name": "Monarch",
-            "children": [
-              {
-                "name": "Monarch Army of Light",
-                "id": 21665,
-                "children": []
-              },
-              {
-                "name": "Monarch Ascendance",
-                "id": 37537,
-                "children": []
-              },
-              {
-                "name": "Monarch Chrysalis",
-                "id": 8867,
-                "children": []
-              },
-              {
-                "name": "Monarch Cupid",
-                "id": 8422,
-                "children": []
-              },
-              {
-                "name": "Monarch Embassy",
-                "id": 37426,
-                "children": []
-              },
-              {
-                "name": "Monarch HQ",
-                "id": 8336,
-                "children": []
-              },
-              {
-                "name": "Monarch Mutation",
-                "id": 7835,
-                "children": []
-              },
-              {
-                "name": "Monarch Oscuridad",
-                "id": 40518,
-                "children": []
-              },
-              {
-                "name": "Monarch Research",
-                "id": 18736,
-                "children": []
-              },
-              {
-                "name": "Monarch Vanguard",
-                "id": 21040,
-                "children": []
-              },
-              {
-                "name": "Monarch X",
-                "id": 20514,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "NoCturnal",
-            "children": [
-              {
-                "name": "NoC2urnal",
-                "id": 9171,
-                "children": []
-              },
-              {
-                "name": "NoCturnal",
-                "id": 355,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Nub Army",
-            "children": [
-              {
-                "name": "Nub Army",
-                "id": 42435,
-                "children": []
-              },
-              {
-                "name": "Nub Navy",
-                "id": 33241,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Nuclear",
-            "children": [
-              {
-                "name": "Emergency Room",
-                "id": 9745,
-                "children": []
-              },
-              {
-                "name": "Evolution",
-                "id": 366,
-                "children": []
-              },
-              {
-                "name": "Nuclear Armageddon",
-                "id": 8954,
-                "children": []
-              },
-              {
-                "name": "Nuclear Blast",
-                "id": 8085,
-                "children": []
-              },
-              {
-                "name": "Nuclear Clinic",
-                "id": 21028,
-                "children": []
-              },
-              {
-                "name": "Nuclear Fusion",
-                "id": 12094,
-                "children": []
-              },
-              {
-                "name": "Nuclear Therapy",
-                "id": 13851,
-                "children": []
-              },
-              {
-                "name": "Nuclear Winter",
-                "id": 16282,
-                "children": []
-              },
-              {
-                "name": "Torn Medical",
-                "id": 17133,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Ram Rajya",
-            "id": 8802,
-            "children": []
-          },
-          {
-            "name": "Ravage",
-            "id": 15655,
-            "children": []
-          },
-          {
-            "name": "Requiem",
-            "id": 8255,
-            "children": []
-          },
-          {
-            "name": "S.W.A.T",
-            "children": [
-              {
-                "name": "S.W.A.T",
-                "id": 35423,
-                "children": []
-              },
-              {
-                "name": "S.W.A.T Academy",
-                "id": 36693,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Sacrifice",
-            "id": 9420,
-            "children": []
-          },
-          {
-            "name": "Savage Nightmare",
-            "id": 8384,
-            "children": []
-          },
-          {
-            "name": "SMTH",
-            "children": [
-              {
-                "name": "SMTH - Bright Summit",
-                "id": 11796,
-                "children": []
-              },
-              {
-                "name": "SMTH - Concord",
-                "id": 27902,
-                "children": []
-              },
-              {
-                "name": "SMTH - HoYoverse",
-                "id": 16424,
-                "children": []
-              },
-              {
-                "name": "SMTH - November Chopin",
-                "id": 16335,
-                "children": []
-              },
-              {
-                "name": "SMTH - Party Animals",
-                "id": 9356,
-                "children": []
-              },
-              {
-                "name": "SMTH - Phoenix Nirvana",
-                "id": 20465,
-                "children": []
-              },
-              {
-                "name": "SMTH - Silver Hand",
-                "id": 36134,
-                "children": []
-              },
-              {
-                "name": "SMTH - Trisolary",
-                "id": 10741,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "The Brotherhood of Battle",
-            "id": 8795,
-            "children": []
-          },
-          {
-            "name": "The Hellfire Club",
-            "id": 42671,
-            "children": []
-          },
-          {
-            "name": "The Iron Family",
-            "children": [
-              {
-                "name": "The Iron Fist",
-                "id": 9176,
-                "children": []
-              },
-              {
-                "name": "The Iron Phoenix",
-                "id": 9370,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "The Iron Retribution",
-            "id": 37530,
-            "children": []
-          },
-          {
-            "name": "The Next Level",
-            "id": 6731,
-            "children": []
-          },
-          {
-            "name": "The Pagans",
-            "id": 26437,
-            "children": []
-          },
-          {
-            "name": "The Syndicate",
-            "children": [
-              {
-                "name": "The Project Syndicate",
-                "id": 8322,
-                "children": []
-              },
-              {
-                "name": "The Syndicate Project",
-                "id": 19249,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Unity",
-            "id": 20501,
-            "children": []
-          },
-          {
-            "name": "Valor",
-            "id": 41929,
-            "children": []
-          },
-          {
-            "name": "Vulpes Vulpes",
-            "id": 7709,
-            "children": []
-          },
-          {
-            "name": "Wandering Earth",
-            "id": 8509,
-            "children": []
-          },
-          {
-            "name": "WarDogs",
-            "children": [
-              {
-                "name": "WarDogs CM",
-                "id": 16120,
-                "children": []
-              },
-              {
-                "name": "WarDogs HQ",
-                "id": 40775,
-                "children": []
-              },
-              {
-                "name": "WarDogs Outpost",
-                "id": 42685,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Wargasm",
-            "children": [
-              {
-                "name": "Wargasm 2.0",
-                "id": 13525,
-                "children": []
-              },
-              {
-                "name": "Wargasm 3.0",
-                "id": 41620,
-                "children": []
-              },
-              {
-                "name": "Wargasm HQ",
-                "id": 30085,
-                "children": []
-              },
-              {
-                "name": "Wargasm-DNA",
-                "id": 37450,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "WIT",
-            "children": [
-              {
-                "name": "WIT-Mayhem",
-                "id": 40399,
-                "children": []
-              },
-              {
-                "name": "WIT-Premier",
-                "id": 7969,
-                "children": []
-              },
-              {
-                "name": "WIT-Ranger",
-                "id": 8677,
-                "children": []
-              },
-              {
-                "name": "WIT-Revolution",
-                "id": 41363,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Wolf Pack",
-            "children": [
-              {
-                "name": "Wolf Pack",
-                "id": 9032,
-                "children": []
-              },
-              {
-                "name": "Wolf Pack Next Generation",
-                "id": 15120,
-                "children": []
-              },
-              {
-                "name": "Wolf Pack Revival",
-                "id": 20303,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Wolverines",
-            "children": [
-              {
-                "name": "Lex Wolverines",
-                "id": 10818,
-                "children": []
-              },
-              {
-                "name": "The Wolverines",
-                "id": 22781,
-                "children": []
-              },
-              {
-                "name": "Wolverines Gone Wild",
-                "id": 30820,
-                "children": []
-              },
-              {
-                "name": "Wolverines Health Org",
-                "id": 10960,
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Wraith",
-            "id": 6984,
-            "children": []
-          }
-        ]
-      }
-    ]
-  }
+  "alliances": [
+    {
+      "name": "CRyPTo",
+      "children": [
+        {
+          "name": "Arcadia",
+          "id": 8938,
+          "children": []
+        },
+        {
+          "name": "Asylum 2.0",
+          "id": 16053,
+          "children": []
+        },
+        {
+          "name": "Avalon",
+          "id": 9357,
+          "children": []
+        },
+        {
+          "name": "Blood Money",
+          "id": 41853,
+          "children": []
+        },
+        {
+          "name": "Brazilian Unit",
+          "id": 13842,
+          "children": []
+        },
+        {
+          "name": "Capacity X",
+          "id": 16247,
+          "children": []
+        },
+        {
+          "name": "Chain Reaction",
+          "children": [
+            {
+              "name": "Catalysis",
+              "id": 89,
+              "children": []
+            },
+            {
+              "name": "Chain Reaction",
+              "id": 16628,
+              "children": []
+            },
+            {
+              "name": "Chromatic",
+              "id": 8151,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Deja",
+          "id": 9689,
+          "children": []
+        },
+        {
+          "name": "Escensio Incursus",
+          "id": 21368,
+          "children": []
+        },
+        {
+          "name": "Itsi Bitsi Bikini",
+          "children": [
+            {
+              "name": "Aquarius",
+              "id": 22295,
+              "children": []
+            },
+            {
+              "name": "Ghost Ship",
+              "id": 5431,
+              "children": []
+            },
+            {
+              "name": "Itsi Bitsi Bikini",
+              "id": 2736,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Legitimate Business",
+          "id": 9305,
+          "children": []
+        },
+        {
+          "name": "Lingering Insanity",
+          "id": 8400,
+          "children": []
+        },
+        {
+          "name": "MORTAL LEGENDS",
+          "id": 95,
+          "children": []
+        },
+        {
+          "name": "Naughty Souls",
+          "id": 8317,
+          "children": []
+        },
+        {
+          "name": "Nite",
+          "children": [
+            {
+              "name": "Bloody Sloths",
+              "id": 7282,
+              "children": []
+            },
+            {
+              "name": "Midnight Ghosts",
+              "id": 19982,
+              "children": []
+            },
+            {
+              "name": "Midnight Plague",
+              "id": 23952,
+              "children": []
+            },
+            {
+              "name": "Midnight X",
+              "id": 8715,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "NNGO",
+          "children": [
+            {
+              "name": "NNGO",
+              "id": 8537,
+              "children": []
+            },
+            {
+              "name": "NNGO - Nugget Farm",
+              "id": 40200,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "OccamsRazers",
+          "id": 48628,
+          "children": []
+        },
+        {
+          "name": "OverWatch",
+          "id": 9517,
+          "children": []
+        },
+        {
+          "name": "PT",
+          "children": [
+            {
+              "name": "PT-Calculated",
+              "id": 9041,
+              "children": []
+            },
+            {
+              "name": "PT-Family",
+              "id": 230,
+              "children": []
+            },
+            {
+              "name": "PT-IronHearts",
+              "id": 946,
+              "children": []
+            },
+            {
+              "name": "PT-Penguins",
+              "id": 13665,
+              "children": []
+            },
+            {
+              "name": "PT-ShadowRazers",
+              "id": 478,
+              "children": []
+            },
+            {
+              "name": "PT-Torntuga",
+              "id": 41775,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "REK",
+          "children": [
+            {
+              "name": "REK II",
+              "id": 10856,
+              "children": []
+            },
+            {
+              "name": "REK&morty",
+              "id": 18090,
+              "children": []
+            },
+            {
+              "name": "REKroot",
+              "id": 42681,
+              "children": []
+            },
+            {
+              "name": "Romania Elite Kommando",
+              "id": 18569,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Riot",
+          "id": 41419,
+          "children": []
+        },
+        {
+          "name": "Rising Reckoning",
+          "id": 20554,
+          "children": []
+        },
+        {
+          "name": "The Four Twenty C-K-A",
+          "id": 16503,
+          "children": []
+        },
+        {
+          "name": "The House Of Retribution",
+          "id": 12912,
+          "children": []
+        },
+        {
+          "name": "The Revenant",
+          "children": [
+            {
+              "name": "The Revenant",
+              "id": 46708,
+              "children": []
+            },
+            {
+              "name": "The Revenant Reserve",
+              "id": 48140,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "The Rifles",
+          "children": [
+            {
+              "name": "The Rifle Company",
+              "id": 10566,
+              "children": []
+            },
+            {
+              "name": "The Rifle Medics",
+              "id": 26154,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "The Sick Bay",
+          "id": 11539,
+          "children": []
+        },
+        {
+          "name": "The ZOO",
+          "id": 15151,
+          "children": []
+        },
+        {
+          "name": "Too Sober for this Shit",
+          "id": 40420,
+          "children": []
+        },
+        {
+          "name": "Vinerri",
+          "children": [
+            {
+              "name": "Little Famiglia",
+              "id": 19060,
+              "children": []
+            },
+            {
+              "name": "Shadow Healers",
+              "id": 38761,
+              "children": []
+            },
+            {
+              "name": "Vinerri",
+              "id": 8836,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "JFK",
+      "children": [
+        {
+          "name": "Alley Cats",
+          "id": 7652,
+          "children": []
+        },
+        {
+          "name": "Bagan Dynasty",
+          "id": 21234,
+          "children": []
+        },
+        {
+          "name": "Delightful Assholes",
+          "id": 26312,
+          "children": []
+        },
+        {
+          "name": "JFK",
+          "children": [
+            {
+              "name": "JFK",
+              "id": 3241,
+              "children": []
+            },
+            {
+              "name": "JFK - Future Killers",
+              "id": 14821,
+              "children": []
+            },
+            {
+              "name": "JFK 2.1",
+              "id": 14365,
+              "children": []
+            },
+            {
+              "name": "JFR",
+              "id": 6924,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Order Through Chaos",
+          "id": 8076,
+          "children": []
+        },
+        {
+          "name": "Swiss Squad",
+          "id": 11428,
+          "children": []
+        },
+        {
+          "name": "The Black Hand",
+          "id": 9100,
+          "children": []
+        },
+        {
+          "name": "The Drunk Tank",
+          "id": 9953,
+          "children": []
+        },
+        {
+          "name": "The Quidnunks HQ",
+          "id": 10174,
+          "children": []
+        },
+        {
+          "name": "The Red Knights",
+          "id": 25001,
+          "children": []
+        },
+        {
+          "name": "Valhalla - Barna",
+          "id": 38668,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OBN",
+      "children": [
+        {
+          "name": "39th Street",
+          "children": [
+            {
+              "name": "39th Street Chillers",
+              "id": 22680,
+              "children": []
+            },
+            {
+              "name": "39th Street Healers",
+              "id": 7049,
+              "children": []
+            },
+            {
+              "name": "39th Street Killers",
+              "id": 19,
+              "children": []
+            },
+            {
+              "name": "39th Street Killers X",
+              "id": 16312,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Aurora",
+          "children": [
+            {
+              "name": "-Aurora-",
+              "id": 32395,
+              "children": []
+            },
+            {
+              "name": "-Borealis-",
+              "id": 13180,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Born For War",
+          "id": 41702,
+          "children": []
+        },
+        {
+          "name": "Buttgrass Inc",
+          "id": 8803,
+          "children": []
+        },
+        {
+          "name": "Destructive Anomaly",
+          "children": [
+            {
+              "name": "Dead or Alive",
+              "id": 13502,
+              "children": []
+            },
+            {
+              "name": "Destructive Anomaly",
+              "id": 231,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "DP Warriors",
+          "id": 25025,
+          "children": []
+        },
+        {
+          "name": "Dystopia",
+          "id": 22492,
+          "children": []
+        },
+        {
+          "name": "Elemental",
+          "children": [
+            {
+              "name": "Aurum",
+              "id": 15222,
+              "children": []
+            },
+            {
+              "name": "Carbon",
+              "id": 8706,
+              "children": []
+            },
+            {
+              "name": "Lithium",
+              "id": 10820,
+              "children": []
+            },
+            {
+              "name": "Xenon",
+              "id": 8520,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Iron Rose Cartel",
+          "id": 6895,
+          "children": []
+        },
+        {
+          "name": "Medic!!",
+          "id": 40992,
+          "children": []
+        },
+        {
+          "name": "Natural Selection",
+          "children": [
+            {
+              "name": "Natural Selection",
+              "id": 9533,
+              "children": []
+            },
+            {
+              "name": "Natural Selection II",
+              "id": 11747,
+              "children": []
+            },
+            {
+              "name": "Natural Selection III",
+              "id": 11581,
+              "children": []
+            },
+            {
+              "name": "Natural Selection IV",
+              "id": 9055,
+              "children": []
+            },
+            {
+              "name": "NS Bomb Shelter",
+              "id": 21526,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "New Sith Order",
+          "children": [
+            {
+              "name": "New Sith Order",
+              "id": 15644,
+              "children": []
+            },
+            {
+              "name": "New Sith Order II",
+              "id": 12894,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "NPO",
+          "children": [
+            {
+              "name": "NPO - Endurance",
+              "id": 14052,
+              "children": []
+            },
+            {
+              "name": "NPO - Peace",
+              "id": 18714,
+              "children": []
+            },
+            {
+              "name": "NPO - Prosperity",
+              "id": 44758,
+              "children": []
+            },
+            {
+              "name": "NPO - Strength",
+              "id": 10610,
+              "children": []
+            },
+            {
+              "name": "NPO - Valour",
+              "id": 26885,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Rabid Chihuahuas",
+          "id": 36691,
+          "children": []
+        },
+        {
+          "name": "Razers",
+          "id": 40449,
+          "children": []
+        },
+        {
+          "name": "Reign of Confusion",
+          "id": 23188,
+          "children": []
+        },
+        {
+          "name": "Retaliation",
+          "id": 10296,
+          "children": []
+        },
+        {
+          "name": "Ruthless Reborn",
+          "children": [
+            {
+              "name": "Ruthless Reborn",
+              "id": 8062,
+              "children": []
+            },
+            {
+              "name": "Ruthless Reborn II",
+              "id": 48965,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "WarBirds",
+          "children": [
+            {
+              "name": "The Nest",
+              "id": 35507,
+              "children": []
+            },
+            {
+              "name": "WarBirds",
+              "id": 13784,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Whanau",
+          "children": [
+            {
+              "name": "BLACK STATUES",
+              "id": 9412,
+              "children": []
+            },
+            {
+              "name": "HAKA",
+              "id": 33007,
+              "children": []
+            },
+            {
+              "name": "ODB",
+              "id": 42125,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "White Rabbits",
+          "id": 30009,
+          "children": []
+        },
+        {
+          "name": "Winter is Coming",
+          "children": [
+            {
+              "name": "The Nights Watch",
+              "id": 42650,
+              "children": []
+            },
+            {
+              "name": "Winter is Coming",
+              "id": 16040,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "WTF",
+          "children": [
+            {
+              "name": "WTF",
+              "id": 1149,
+              "children": []
+            },
+            {
+              "name": "WTF Healers",
+              "id": 12863,
+              "children": []
+            },
+            {
+              "name": "WTF Medical",
+              "id": 29865,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RoD",
+      "children": [
+        {
+          "name": "7th St. Assassins",
+          "id": 16634,
+          "children": []
+        },
+        {
+          "name": "Baby Champers",
+          "id": 35840,
+          "children": []
+        },
+        {
+          "name": "BoW - Hidden Shadows",
+          "id": 42505,
+          "children": []
+        },
+        {
+          "name": "Brotherhood of Darkness",
+          "id": 49763,
+          "children": []
+        },
+        {
+          "name": "C2C",
+          "id": 15286,
+          "children": []
+        },
+        {
+          "name": "Catch 22",
+          "id": 37185,
+          "children": []
+        },
+        {
+          "name": "Clockwork Orange",
+          "id": 44865,
+          "children": []
+        },
+        {
+          "name": "Coma Toast",
+          "id": 49837,
+          "children": []
+        },
+        {
+          "name": "Cosmosis",
+          "id": 48526,
+          "children": []
+        },
+        {
+          "name": "Crime Syndicate",
+          "id": 43325,
+          "children": []
+        },
+        {
+          "name": "Damage Inc",
+          "children": [
+            {
+              "name": "Brain Damage",
+              "id": 48112,
+              "children": []
+            },
+            {
+              "name": "Damage Inc",
+              "id": 20747,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Dog Pen Mafia",
+          "id": 41297,
+          "children": []
+        },
+        {
+          "name": "Endless Endeavor",
+          "id": 14686,
+          "children": []
+        },
+        {
+          "name": "EPIC Mafia",
+          "id": 40959,
+          "children": []
+        },
+        {
+          "name": "Fluffle",
+          "id": 13872,
+          "children": []
+        },
+        {
+          "name": "Get Stuffed",
+          "id": 8285,
+          "children": []
+        },
+        {
+          "name": "Glyndwr",
+          "id": 47495,
+          "children": []
+        },
+        {
+          "name": "Goblin Horde",
+          "id": 13307,
+          "children": []
+        },
+        {
+          "name": "Imminent Apocalypse",
+          "children": [
+            {
+              "name": "IA Black",
+              "id": 35776,
+              "children": []
+            },
+            {
+              "name": "IA Hookers & Blow",
+              "id": 9674,
+              "children": []
+            },
+            {
+              "name": "Imminent Apocalypse",
+              "id": 25874,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Impulse",
+          "children": [
+            {
+              "name": "Also Impulse",
+              "id": 11376,
+              "children": []
+            },
+            {
+              "name": "Impulse",
+              "id": 33783,
+              "children": []
+            },
+            {
+              "name": "Impulse 13!",
+              "id": 8811,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Materia",
+          "id": 23193,
+          "children": []
+        },
+        {
+          "name": "Onion Smugglers",
+          "id": 6974,
+          "children": []
+        },
+        {
+          "name": "Pawsitive Medics",
+          "id": 38887,
+          "children": []
+        },
+        {
+          "name": "Peaky CS",
+          "id": 41234,
+          "children": []
+        },
+        {
+          "name": "Plague Inc.",
+          "id": 11782,
+          "children": []
+        },
+        {
+          "name": "Princess Dale's Beavers",
+          "id": 36140,
+          "children": []
+        },
+        {
+          "name": "RHINO'S CARTEL",
+          "id": 49167,
+          "children": []
+        },
+        {
+          "name": "SA",
+          "children": [
+            {
+              "name": "SA  Equilibrium",
+              "id": 27312,
+              "children": []
+            },
+            {
+              "name": "SA Infinite - Recruiting",
+              "id": 13383,
+              "children": []
+            },
+            {
+              "name": "SA Ministry of Mayhem",
+              "id": 525,
+              "children": []
+            },
+            {
+              "name": "SA One  Punch",
+              "id": 33458,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "School of Devlins",
+          "id": 16296,
+          "children": []
+        },
+        {
+          "name": "Shiba Inu",
+          "id": 46089,
+          "children": []
+        },
+        {
+          "name": "Shiny Hoard Avian Team",
+          "id": 28073,
+          "children": []
+        },
+        {
+          "name": "Spawtans",
+          "id": 27554,
+          "children": []
+        },
+        {
+          "name": "Sport Club",
+          "id": 937,
+          "children": []
+        },
+        {
+          "name": "TBA",
+          "children": [
+            {
+              "name": "TBA - Rise Above",
+              "id": 6834,
+              "children": []
+            },
+            {
+              "name": "TBA-Rise Again",
+              "id": 40951,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "The Black Pearl",
+          "id": 9036,
+          "children": []
+        },
+        {
+          "name": "The Brotherhood of War",
+          "id": 13377,
+          "children": []
+        },
+        {
+          "name": "The Collective",
+          "children": [
+            {
+              "name": "Blue Rock Collective",
+              "id": 7935,
+              "children": []
+            },
+            {
+              "name": "The Collective JTF",
+              "id": 7227,
+              "children": []
+            },
+            {
+              "name": "The Collective Resistance",
+              "id": 18597,
+              "children": []
+            },
+            {
+              "name": "The Phoenix Collective",
+              "id": 17991,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "The Covenant",
+          "id": 21716,
+          "children": []
+        },
+        {
+          "name": "The Fallen",
+          "id": 15154,
+          "children": []
+        },
+        {
+          "name": "The Hogs",
+          "id": 44467,
+          "children": []
+        },
+        {
+          "name": "The Railroad",
+          "id": 37498,
+          "children": []
+        },
+        {
+          "name": "The Resolute",
+          "id": 46442,
+          "children": []
+        },
+        {
+          "name": "The Unwoke",
+          "id": 8152,
+          "children": []
+        },
+        {
+          "name": "Toxic Reign",
+          "id": 40624,
+          "children": []
+        },
+        {
+          "name": "WARTORN",
+          "id": 34623,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Westworld",
+      "children": [
+        {
+          "name": "~Twisted~",
+          "id": 14078,
+          "children": []
+        },
+        {
+          "name": "Abusement Park",
+          "id": 39756,
+          "children": []
+        },
+        {
+          "name": "Aurora Surrealis",
+          "id": 12249,
+          "children": []
+        },
+        {
+          "name": "Bloodbath and Beyond",
+          "id": 8468,
+          "children": []
+        },
+        {
+          "name": "Dark Arts",
+          "children": [
+            {
+              "name": "Dark Arts",
+              "id": 16299,
+              "children": []
+            },
+            {
+              "name": "Dark Demons",
+              "id": 48572,
+              "children": []
+            },
+            {
+              "name": "DarkHearts",
+              "id": 9047,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Darkside",
+          "id": 12893,
+          "children": []
+        },
+        {
+          "name": "Dead Body Crew",
+          "id": 39580,
+          "children": []
+        },
+        {
+          "name": "Desert Eagle",
+          "id": 27370,
+          "children": []
+        },
+        {
+          "name": "Destination Unknown",
+          "id": 9201,
+          "children": []
+        },
+        {
+          "name": "Disorderly Conduct",
+          "id": 30584,
+          "children": []
+        },
+        {
+          "name": "Dopeheads on Mopeds",
+          "children": [
+            {
+              "name": "Dopeheads on Mopeds",
+              "id": 14760,
+              "children": []
+            },
+            {
+              "name": "Druggies in Snuggies",
+              "id": 15446,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "FLATLINE",
+          "children": [
+            {
+              "name": "BLOODLINE",
+              "id": 41028,
+              "children": []
+            },
+            {
+              "name": "DEADLINE",
+              "id": 48912,
+              "children": []
+            },
+            {
+              "name": "FLATLINE",
+              "id": 36891,
+              "children": []
+            },
+            {
+              "name": "LIFELINE",
+              "id": 38481,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Free Xanax",
+          "id": 12645,
+          "children": []
+        },
+        {
+          "name": "Gangsta's Paradise",
+          "id": 17845,
+          "children": []
+        },
+        {
+          "name": "Gladiators",
+          "id": 49147,
+          "children": []
+        },
+        {
+          "name": "Glory to Heroes",
+          "id": 16057,
+          "children": []
+        },
+        {
+          "name": "Good Guys",
+          "id": 39549,
+          "children": []
+        },
+        {
+          "name": "Halos",
+          "children": [
+            {
+              "name": "Halos",
+              "id": 40918,
+              "children": []
+            },
+            {
+              "name": "Halos Army",
+              "id": 42961,
+              "children": []
+            },
+            {
+              "name": "Halos Rise",
+              "id": 16079,
+              "children": []
+            },
+            {
+              "name": "Halos Wisemen",
+              "id": 49384,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Honey Badgers Medical",
+          "id": 11522,
+          "children": []
+        },
+        {
+          "name": "Imperium",
+          "children": [
+            {
+              "name": "Imperial MediHaven",
+              "id": 12255,
+              "children": []
+            },
+            {
+              "name": "The Inquisition",
+              "id": 15929,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Infernum",
+          "children": [
+            {
+              "name": "Infernum Apocalypse",
+              "id": 48640,
+              "children": []
+            },
+            {
+              "name": "Infernum Perdition",
+              "id": 11131,
+              "children": []
+            },
+            {
+              "name": "Infernum Spawned",
+              "id": 17055,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "insurreXtion",
+          "id": 2095,
+          "children": []
+        },
+        {
+          "name": "Little Stompers",
+          "id": 27223,
+          "children": []
+        },
+        {
+          "name": "Monarch",
+          "children": [
+            {
+              "name": "Monarch Army of Light",
+              "id": 21665,
+              "children": []
+            },
+            {
+              "name": "Monarch Ascendance",
+              "id": 37537,
+              "children": []
+            },
+            {
+              "name": "Monarch Chrysalis",
+              "id": 8867,
+              "children": []
+            },
+            {
+              "name": "Monarch Cupid",
+              "id": 8422,
+              "children": []
+            },
+            {
+              "name": "Monarch Embassy",
+              "id": 37426,
+              "children": []
+            },
+            {
+              "name": "Monarch HQ",
+              "id": 8336,
+              "children": []
+            },
+            {
+              "name": "Monarch Mutation",
+              "id": 7835,
+              "children": []
+            },
+            {
+              "name": "Monarch Oscuridad",
+              "id": 40518,
+              "children": []
+            },
+            {
+              "name": "Monarch Research",
+              "id": 18736,
+              "children": []
+            },
+            {
+              "name": "Monarch Vanguard",
+              "id": 21040,
+              "children": []
+            },
+            {
+              "name": "Monarch X",
+              "id": 20514,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "NoC2urnal",
+          "id": 9171,
+          "children": []
+        },
+        {
+          "name": "NoCturnal",
+          "id": 355,
+          "children": []
+        },
+        {
+          "name": "Nub Army",
+          "children": [
+            {
+              "name": "Nub Army",
+              "id": 42435,
+              "children": []
+            },
+            {
+              "name": "Nub Navy",
+              "id": 33241,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Nuclear",
+          "children": [
+            {
+              "name": "Emergency Room",
+              "id": 9745,
+              "children": []
+            },
+            {
+              "name": "Evolution",
+              "id": 366,
+              "children": []
+            },
+            {
+              "name": "Nuclear Armageddon",
+              "id": 8954,
+              "children": []
+            },
+            {
+              "name": "Nuclear Blast",
+              "id": 8085,
+              "children": []
+            },
+            {
+              "name": "Nuclear Clinic",
+              "id": 21028,
+              "children": []
+            },
+            {
+              "name": "Nuclear Fusion",
+              "id": 12094,
+              "children": []
+            },
+            {
+              "name": "Nuclear Therapy",
+              "id": 13851,
+              "children": []
+            },
+            {
+              "name": "Nuclear Winter",
+              "id": 16282,
+              "children": []
+            },
+            {
+              "name": "Torn Medical",
+              "id": 17133,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Ram Rajya",
+          "id": 8802,
+          "children": []
+        },
+        {
+          "name": "Ravage",
+          "id": 15655,
+          "children": []
+        },
+        {
+          "name": "Requiem",
+          "id": 8255,
+          "children": []
+        },
+        {
+          "name": "S.W.A.T",
+          "children": [
+            {
+              "name": "S.W.A.T",
+              "id": 35423,
+              "children": []
+            },
+            {
+              "name": "S.W.A.T Academy",
+              "id": 36693,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Sacrifice",
+          "id": 9420,
+          "children": []
+        },
+        {
+          "name": "Savage Nightmare",
+          "id": 8384,
+          "children": []
+        },
+        {
+          "name": "SMTH",
+          "children": [
+            {
+              "name": "SMTH - Bright Summit",
+              "id": 11796,
+              "children": []
+            },
+            {
+              "name": "SMTH - Concord",
+              "id": 27902,
+              "children": []
+            },
+            {
+              "name": "SMTH - HoYoverse",
+              "id": 16424,
+              "children": []
+            },
+            {
+              "name": "SMTH - November Chopin",
+              "id": 16335,
+              "children": []
+            },
+            {
+              "name": "SMTH - Party Animals",
+              "id": 9356,
+              "children": []
+            },
+            {
+              "name": "SMTH - Phoenix Nirvana",
+              "id": 20465,
+              "children": []
+            },
+            {
+              "name": "SMTH - Silver Hand",
+              "id": 36134,
+              "children": []
+            },
+            {
+              "name": "SMTH - Trisolary",
+              "id": 10741,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "The Brotherhood of Battle",
+          "id": 8795,
+          "children": []
+        },
+        {
+          "name": "The Hellfire Club",
+          "id": 42671,
+          "children": []
+        },
+        {
+          "name": "The Iron Family",
+          "children": [
+            {
+              "name": "The Iron Fist",
+              "id": 9176,
+              "children": []
+            },
+            {
+              "name": "The Iron Phoenix",
+              "id": 9370,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "The Iron Retribution",
+          "id": 37530,
+          "children": []
+        },
+        {
+          "name": "The Next Level",
+          "id": 6731,
+          "children": []
+        },
+        {
+          "name": "The Pagans",
+          "id": 26437,
+          "children": []
+        },
+        {
+          "name": "The Syndicate",
+          "children": [
+            {
+              "name": "The Project Syndicate",
+              "id": 8322,
+              "children": []
+            },
+            {
+              "name": "The Syndicate Project",
+              "id": 19249,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Unity",
+          "id": 20501,
+          "children": []
+        },
+        {
+          "name": "Valor",
+          "id": 41929,
+          "children": []
+        },
+        {
+          "name": "Vulpes Vulpes",
+          "id": 7709,
+          "children": []
+        },
+        {
+          "name": "Wandering Earth",
+          "id": 8509,
+          "children": []
+        },
+        {
+          "name": "WarDogs",
+          "children": [
+            {
+              "name": "WarDogs CM",
+              "id": 16120,
+              "children": []
+            },
+            {
+              "name": "WarDogs HQ",
+              "id": 40775,
+              "children": []
+            },
+            {
+              "name": "WarDogs Outpost",
+              "id": 42685,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Wargasm",
+          "children": [
+            {
+              "name": "Wargasm 2.0",
+              "id": 13525,
+              "children": []
+            },
+            {
+              "name": "Wargasm 3.0",
+              "id": 41620,
+              "children": []
+            },
+            {
+              "name": "Wargasm HQ",
+              "id": 30085,
+              "children": []
+            },
+            {
+              "name": "Wargasm-DNA",
+              "id": 37450,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "WIT",
+          "children": [
+            {
+              "name": "WIT-Mayhem",
+              "id": 40399,
+              "children": []
+            },
+            {
+              "name": "WIT-Premier",
+              "id": 7969,
+              "children": []
+            },
+            {
+              "name": "WIT-Ranger",
+              "id": 8677,
+              "children": []
+            },
+            {
+              "name": "WIT-Revolution",
+              "id": 41363,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Wolf Pack",
+          "children": [
+            {
+              "name": "Wolf Pack",
+              "id": 9032,
+              "children": []
+            },
+            {
+              "name": "Wolf Pack Next Generation",
+              "id": 15120,
+              "children": []
+            },
+            {
+              "name": "Wolf Pack Revival",
+              "id": 20303,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Wolverines",
+          "children": [
+            {
+              "name": "Lex Wolverines",
+              "id": 10818,
+              "children": []
+            },
+            {
+              "name": "The Wolverines",
+              "id": 22781,
+              "children": []
+            },
+            {
+              "name": "Wolverines Gone Wild",
+              "id": 30820,
+              "children": []
+            },
+            {
+              "name": "Wolverines Health Org",
+              "id": 10960,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Wraith",
+          "id": 6984,
+          "children": []
+        }
+      ]
+    }
+  ]
+}
