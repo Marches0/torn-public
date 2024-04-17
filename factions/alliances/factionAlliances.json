@@ -1024,6 +1024,26 @@
           "children": []
         },
         {
+          "name": "Combat Ready",
+          "children": [
+            {
+              "name": "Combat Ready HQ",
+              "id": 44445,
+              "children": []
+            },
+            {
+              "name": "CR-ACK",
+              "id": 20211,
+              "children": []
+            },
+            {
+              "name": "CS - Kosta Nostra",
+              "id": 49776,
+              "children": []
+            }
+          ]
+        },
+        {
           "name": "Dark Arts",
           "children": [
             {
