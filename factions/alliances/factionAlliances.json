@@ -144,11 +144,6 @@
           ]
         },
         {
-          "name": "OccamsRazers",
-          "id": 48628,
-          "children": []
-        },
-        {
           "name": "OverWatch",
           "id": 9517,
           "children": []
@@ -576,7 +571,18 @@
         {
           "name": "Razers",
           "id": 40449,
-          "children": []
+          "children": [
+            {
+              "name": "OccamsRazers",
+              "id": 48628,
+              "children": []
+            },
+            {
+              "name": "Razers",
+              "id": 40449,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Reign of Confusion",
