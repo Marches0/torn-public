@@ -404,6 +404,11 @@
           ]
         },
         {
+          "name": "Aperture Science",
+          "id": 13789,
+          "children": []
+        },
+        {
           "name": "Aurora",
           "children": [
             {
@@ -426,6 +431,11 @@
         {
           "name": "Buttgrass Inc",
           "id": 8803,
+          "children": []
+        },
+        {
+          "name": "Dark Energy",
+          "id": 13726,
           "children": []
         },
         {
@@ -479,8 +489,23 @@
           ]
         },
         {
+          "name": "Extinction",
+          "id": 8500,
+          "children": []
+        },
+        {
+          "name": "FLUX",
+          "id": 8766,
+          "children": []
+        },
+        {
           "name": "Iron Rose Cartel",
           "id": 6895,
+          "children": []
+        },
+        {
+          "name": "Kingsmen",
+          "id": 35739,
           "children": []
         },
         {
@@ -564,13 +589,17 @@
           ]
         },
         {
+          "name": "Pennywise Clown Posse",
+          "id": 40774,
+          "children": []
+        },
+        {
           "name": "Rabid Chihuahuas",
           "id": 36691,
           "children": []
         },
         {
           "name": "Razers",
-          "id": 40449,
           "children": [
             {
               "name": "OccamsRazers",
