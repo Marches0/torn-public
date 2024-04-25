@@ -397,13 +397,13 @@
               "children": []
             },
             {
-              "name": "39th Street Warriors",
-              "id": 41702,
+              "name": "39th Street Killers X",
+              "id": 16312,
               "children": []
             },
             {
-              "name": "39th Street Killers X",
-              "id": 16312,
+              "name": "39th Street Warriors",
+              "id": 41702,
               "children": []
             }
           ]
@@ -702,13 +702,13 @@
               "children": []
             },
             {
-              "name": "WTF Healers",
-              "id": 12863,
+              "name": "WTF 2.0",
+              "id": 29865,
               "children": []
             },
             {
-              "name": "WTF Medical",
-              "id": 29865,
+              "name": "WTF Healers",
+              "id": 12863,
               "children": []
             }
           ]
@@ -1067,13 +1067,13 @@
               "children": []
             },
             {
-              "name": "CR-ACK",
-              "id": 20211,
+              "name": "CR - Kosta Nostra",
+              "id": 49776,
               "children": []
             },
             {
-              "name": "CS - Kosta Nostra",
-              "id": 49776,
+              "name": "CR-ACK",
+              "id": 20211,
               "children": []
             }
           ]
@@ -1385,8 +1385,18 @@
         },
         {
           "name": "Occultus",
-          "id": 9171,
-          "children": []
+          "children": [
+            {
+              "name": "Occul2us",
+              "id": 9171,
+              "children": []
+            },
+            {
+              "name": "Occultus",
+              "id": 33097,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Ram Rajya",
