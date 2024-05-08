@@ -467,11 +467,6 @@
           "name": "Elemental",
           "children": [
             {
-              "name": "Aurum",
-              "id": 15222,
-              "children": []
-            },
-            {
               "name": "Carbon",
               "id": 8706,
               "children": []
@@ -1073,7 +1068,7 @@
           "children": [
             {
               "name": "Dark Arts",
-              "id": 16299,
+              "id": 15222,
               "children": []
             },
             {
@@ -1084,6 +1079,11 @@
             {
               "name": "DarkHearts",
               "id": 9047,
+              "children": []
+            },
+            {
+              "name": "Kandge is a whore",
+              "id": 16299,
               "children": []
             }
           ]
