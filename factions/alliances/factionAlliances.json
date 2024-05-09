@@ -1192,8 +1192,18 @@
               "children": []
             },
             {
-              "name": "Halos Army",
-              "id": 42961,
+              "name": "Halos Core",
+              "id": 14438,
+              "children": []
+            },
+            {
+              "name": "Halos Momentum",
+              "id": 37786,
+              "children": []
+            },
+            {
+              "name": "Halos Nasty",
+              "id": 48927,
               "children": []
             },
             {
