@@ -705,6 +705,11 @@
               "name": "WTF Healers",
               "id": 12863,
               "children": []
+            },
+            {
+              "name": "WTF II",
+              "id": 37537,
+              "children": []
             }
           ]
         }
@@ -1259,11 +1264,6 @@
             {
               "name": "Monarch Army of Light",
               "id": 21665,
-              "children": []
-            },
-            {
-              "name": "Monarch Ascendance",
-              "id": 37537,
               "children": []
             },
             {
