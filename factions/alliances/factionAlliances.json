@@ -1064,7 +1064,7 @@
           ]
         },
         {
-          "name": "Dark Arts",
+          "name": "DarkHearts",
           "children": [
             {
               "name": "Dark Arts",
@@ -1073,17 +1073,12 @@
             },
             {
               "name": "Dark Demons",
-              "id": 48572,
+              "id": 16299,
               "children": []
             },
             {
               "name": "DarkHearts",
               "id": 9047,
-              "children": []
-            },
-            {
-              "name": "Kandge is a whore",
-              "id": 16299,
               "children": []
             }
           ]
