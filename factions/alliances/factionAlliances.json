@@ -558,7 +558,7 @@
           "children": [
             {
               "name": "NPO - Endurance",
-              "id": 14052,
+              "id": 12645,
               "children": []
             },
             {
@@ -569,6 +569,11 @@
             {
               "name": "NPO - Prosperity",
               "id": 44758,
+              "children": []
+            },
+            {
+              "name": "NPO - Serenity",
+              "id": 14052,
               "children": []
             },
             {
@@ -1147,11 +1152,6 @@
               "children": []
             }
           ]
-        },
-        {
-          "name": "Free Xanax",
-          "id": 12645,
-          "children": []
         },
         {
           "name": "Gangsta's Paradise",
