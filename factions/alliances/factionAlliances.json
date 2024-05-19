@@ -107,11 +107,6 @@
           "name": "Nite",
           "children": [
             {
-              "name": "Bloody Sloths",
-              "id": 7282,
-              "children": []
-            },
-            {
               "name": "Midnight Ghosts",
               "id": 19982,
               "children": []
@@ -964,11 +959,6 @@
           "children": []
         },
         {
-          "name": "The Brotherhood of War",
-          "id": 13377,
-          "children": []
-        },
-        {
           "name": "The Collective",
           "children": [
             {
@@ -1001,11 +991,6 @@
         {
           "name": "The Fallen",
           "id": 15154,
-          "children": []
-        },
-        {
-          "name": "The Hogs",
-          "id": 44467,
           "children": []
         },
         {
