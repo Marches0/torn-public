@@ -344,11 +344,6 @@
           "children": []
         },
         {
-          "name": "The Black Hand",
-          "id": 9100,
-          "children": []
-        },
-        {
           "name": "The Drunk Tank",
           "id": 9953,
           "children": []
@@ -627,6 +622,11 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": "The Black Hand",
+          "id": 9100,
+          "children": []
         },
         {
           "name": "WarBirds",
