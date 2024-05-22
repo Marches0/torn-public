@@ -4,31 +4,6 @@
       "name": "CRyPTo",
       "children": [
         {
-          "name": "Onion Smugglers",
-          "id": 6974,
-          "children": []
-        },
-        {
-          "name": "Subversive Alliance",
-          "children": [
-            {
-              "name": "SA  Equilibrium",
-              "id": 27312,
-              "children": []
-            },
-            {
-              "name": "SA Infinite - Recruiting",
-              "id": 13383,
-              "children": []
-            },
-            {
-              "name": "SA One  Punch",
-              "id": 33458,
-              "children": []
-            }
-          ]
-        },
-        {
           "name": "Arcadia",
           "id": 8938,
           "children": []
@@ -164,6 +139,11 @@
           ]
         },
         {
+          "name": "Onion Smugglers",
+          "id": 6974,
+          "children": []
+        },
+        {
           "name": "OverWatch",
           "id": 9517,
           "children": []
@@ -237,6 +217,26 @@
           "name": "Rising Reckoning",
           "id": 20554,
           "children": []
+        },
+        {
+          "name": "Subversive Alliance",
+          "children": [
+            {
+              "name": "SA  Equilibrium",
+              "id": 27312,
+              "children": []
+            },
+            {
+              "name": "SA Infinite - Recruiting",
+              "id": 13383,
+              "children": []
+            },
+            {
+              "name": "SA One  Punch",
+              "id": 33458,
+              "children": []
+            }
+          ]
         },
         {
           "name": "The Four Twenty C-K-A",
@@ -549,21 +549,6 @@
           ]
         },
         {
-          "name": "New Sith Order",
-          "children": [
-            {
-              "name": "New Sith Order",
-              "id": 15644,
-              "children": []
-            },
-            {
-              "name": "New Sith Order II",
-              "id": 12894,
-              "children": []
-            }
-          ]
-        },
-        {
           "name": "New Pacific Order",
           "children": [
             {
@@ -594,6 +579,21 @@
             {
               "name": "NPO - Valour",
               "id": 26885,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "New Sith Order",
+          "children": [
+            {
+              "name": "New Sith Order",
+              "id": 15644,
+              "children": []
+            },
+            {
+              "name": "New Sith Order II",
+              "id": 12894,
               "children": []
             }
           ]
