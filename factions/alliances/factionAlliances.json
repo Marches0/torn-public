@@ -650,8 +650,18 @@
         },
         {
           "name": "The Black Hand",
-          "id": 9100,
-          "children": []
+          "children": [
+            {
+              "name": "The Black Hand",
+              "id": 9100,
+              "children": []
+            },
+            {
+              "name": "The Black Hand: Legacy",
+              "id": 27458,
+              "children": []
+            }
+          ]
         },
         {
           "name": "WarBirds",
