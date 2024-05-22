@@ -374,11 +374,6 @@
           "children": []
         },
         {
-          "name": "The Red Knights",
-          "id": 25001,
-          "children": []
-        },
-        {
           "name": "Valhalla - Barna",
           "id": 38668,
           "children": []
@@ -659,6 +654,11 @@
             {
               "name": "The Black Hand: Legacy",
               "id": 27458,
+              "children": []
+            },
+            {
+              "name": "The Red Knights",
+              "id": 25001,
               "children": []
             }
           ]
