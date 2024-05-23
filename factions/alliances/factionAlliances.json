@@ -19,6 +19,11 @@
           "children": []
         },
         {
+          "name": "Baby Champers",
+          "id": 35840,
+          "children": []
+        },
+        {
           "name": "Blood Money",
           "id": 41853,
           "children": []
@@ -31,6 +36,11 @@
         {
           "name": "Capacity X",
           "id": 16247,
+          "children": []
+        },
+        {
+          "name": "Catch 22",
+          "id": 37185,
           "children": []
         },
         {
@@ -54,6 +64,16 @@
           ]
         },
         {
+          "name": "Clockwork Orange",
+          "id": 44865,
+          "children": []
+        },
+        {
+          "name": "Crime Syndicate",
+          "id": 43325,
+          "children": []
+        },
+        {
           "name": "Deja",
           "id": 9689,
           "children": []
@@ -62,6 +82,31 @@
           "name": "Escensio Incursus",
           "id": 21368,
           "children": []
+        },
+        {
+          "name": "Get Stuffed",
+          "id": 8285,
+          "children": []
+        },
+        {
+          "name": "Imminent Apocalypse",
+          "children": [
+            {
+              "name": "IA Black",
+              "id": 35776,
+              "children": []
+            },
+            {
+              "name": "IA Hookers & Blow",
+              "id": 9674,
+              "children": []
+            },
+            {
+              "name": "Imminent Apocalypse",
+              "id": 25874,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Itsi Bitsi Bikini",
@@ -147,6 +192,31 @@
           "name": "OverWatch",
           "id": 9517,
           "children": []
+        },
+        {
+          "name": "Paws",
+          "children": [
+            {
+              "name": "Claws to Paws",
+              "id": 51336,
+              "children": []
+            },
+            {
+              "name": "Paws",
+              "id": 30490,
+              "children": []
+            },
+            {
+              "name": "Pawsitive Medics",
+              "id": 38887,
+              "children": []
+            },
+            {
+              "name": "Spawtans",
+              "id": 27554,
+              "children": []
+            }
+          ]
         },
         {
           "name": "PT",
@@ -239,6 +309,31 @@
           ]
         },
         {
+          "name": "The Collective",
+          "children": [
+            {
+              "name": "Blue Rock Collective",
+              "id": 7935,
+              "children": []
+            },
+            {
+              "name": "The Collective JTF",
+              "id": 7227,
+              "children": []
+            },
+            {
+              "name": "The Collective Resistance",
+              "id": 18597,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "The Covenant",
+          "id": 21716,
+          "children": []
+        },
+        {
           "name": "The Four Twenty C-K-A",
           "id": 16503,
           "children": []
@@ -291,6 +386,11 @@
         {
           "name": "Too Sober for this Shit",
           "id": 40420,
+          "children": []
+        },
+        {
+          "name": "Toxic Reign",
+          "id": 40624,
           "children": []
         },
         {
@@ -754,23 +854,8 @@
           "children": []
         },
         {
-          "name": "Baby Champers",
-          "id": 35840,
-          "children": []
-        },
-        {
           "name": "C2C",
           "id": 15286,
-          "children": []
-        },
-        {
-          "name": "Catch 22",
-          "id": 37185,
-          "children": []
-        },
-        {
-          "name": "Clockwork Orange",
-          "id": 44865,
           "children": []
         },
         {
@@ -781,11 +866,6 @@
         {
           "name": "Cosmosis",
           "id": 48526,
-          "children": []
-        },
-        {
-          "name": "Crime Syndicate",
-          "id": 43325,
           "children": []
         },
         {
@@ -844,34 +924,9 @@
           "children": []
         },
         {
-          "name": "Get Stuffed",
-          "id": 8285,
-          "children": []
-        },
-        {
           "name": "Goblin Horde",
           "id": 13307,
           "children": []
-        },
-        {
-          "name": "Imminent Apocalypse",
-          "children": [
-            {
-              "name": "IA Black",
-              "id": 35776,
-              "children": []
-            },
-            {
-              "name": "IA Hookers & Blow",
-              "id": 9674,
-              "children": []
-            },
-            {
-              "name": "Imminent Apocalypse",
-              "id": 25874,
-              "children": []
-            }
-          ]
         },
         {
           "name": "Impulse",
@@ -896,11 +951,6 @@
         {
           "name": "Materia",
           "id": 23193,
-          "children": []
-        },
-        {
-          "name": "Pawsitive Medics",
-          "id": 38887,
           "children": []
         },
         {
@@ -934,11 +984,6 @@
           "children": []
         },
         {
-          "name": "Spawtans",
-          "id": 27554,
-          "children": []
-        },
-        {
           "name": "Sport Club",
           "id": 937,
           "children": []
@@ -964,38 +1009,13 @@
           "children": []
         },
         {
-          "name": "The Collective",
-          "children": [
-            {
-              "name": "Blue Rock Collective",
-              "id": 7935,
-              "children": []
-            },
-            {
-              "name": "The Collective JTF",
-              "id": 7227,
-              "children": []
-            },
-            {
-              "name": "The Collective Resistance",
-              "id": 18597,
-              "children": []
-            },
-            {
-              "name": "The Phoenix Collective",
-              "id": 17991,
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": "The Covenant",
-          "id": 21716,
+          "name": "The Fallen",
+          "id": 15154,
           "children": []
         },
         {
-          "name": "The Fallen",
-          "id": 15154,
+          "name": "The Phoenix Collective",
+          "id": 17991,
           "children": []
         },
         {
@@ -1011,11 +1031,6 @@
         {
           "name": "The Unwoke",
           "id": 8152,
-          "children": []
-        },
-        {
-          "name": "Toxic Reign",
-          "id": 40624,
           "children": []
         },
         {
