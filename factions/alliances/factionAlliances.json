@@ -89,26 +89,6 @@
           "children": []
         },
         {
-          "name": "Imminent Apocalypse",
-          "children": [
-            {
-              "name": "IA Black",
-              "id": 35776,
-              "children": []
-            },
-            {
-              "name": "IA Hookers & Blow",
-              "id": 9674,
-              "children": []
-            },
-            {
-              "name": "Imminent Apocalypse",
-              "id": 25874,
-              "children": []
-            }
-          ]
-        },
-        {
           "name": "Itsi Bitsi Bikini",
           "children": [
             {
@@ -927,6 +907,26 @@
           "name": "Goblin Horde",
           "id": 13307,
           "children": []
+        },
+        {
+          "name": "Imminent Apocalypse",
+          "children": [
+            {
+              "name": "IA Black",
+              "id": 35776,
+              "children": []
+            },
+            {
+              "name": "IA Hookers & Blow",
+              "id": 9674,
+              "children": []
+            },
+            {
+              "name": "Imminent Apocalypse",
+              "id": 25874,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Impulse",
