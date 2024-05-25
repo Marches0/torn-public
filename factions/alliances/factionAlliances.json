@@ -269,6 +269,11 @@
           "children": []
         },
         {
+          "name": "Sport Club",
+          "id": 937,
+          "children": []
+        },
+        {
           "name": "Subversive Alliance",
           "children": [
             {
@@ -981,11 +986,6 @@
         {
           "name": "Shiny Hoard Avian Team",
           "id": 28073,
-          "children": []
-        },
-        {
-          "name": "Sport Club",
-          "id": 937,
           "children": []
         },
         {
