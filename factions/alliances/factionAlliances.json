@@ -294,26 +294,6 @@
           ]
         },
         {
-          "name": "The Collective",
-          "children": [
-            {
-              "name": "Blue Rock Collective",
-              "id": 7935,
-              "children": []
-            },
-            {
-              "name": "The Collective JTF",
-              "id": 7227,
-              "children": []
-            },
-            {
-              "name": "The Collective Resistance",
-              "id": 18597,
-              "children": []
-            }
-          ]
-        },
-        {
           "name": "The Covenant",
           "id": 21716,
           "children": []
@@ -519,6 +499,11 @@
           ]
         },
         {
+          "name": "Auroras Fallen Medics",
+          "id": 36457,
+          "children": []
+        },
+        {
           "name": "Buttgrass Inc",
           "id": 8803,
           "children": []
@@ -581,6 +566,11 @@
         {
           "name": "FLUX",
           "id": 8766,
+          "children": []
+        },
+        {
+          "name": "In Memory of the Fallen",
+          "id": 10140,
           "children": []
         },
         {
@@ -681,6 +671,11 @@
         {
           "name": "Pennywise Clown Posse",
           "id": 40774,
+          "children": []
+        },
+        {
+          "name": "Project Nimbus",
+          "id": 14581,
           "children": []
         },
         {
@@ -792,8 +787,18 @@
           "name": "Winter is Coming",
           "children": [
             {
+              "name": "Anonymous",
+              "id": 18477,
+              "children": []
+            },
+            {
               "name": "The Nights Watch",
               "id": 42650,
+              "children": []
+            },
+            {
+              "name": "White Walkers",
+              "id": 8536,
               "children": []
             },
             {
@@ -1007,6 +1012,26 @@
           "name": "The Black Pearl",
           "id": 9036,
           "children": []
+        },
+        {
+          "name": "The Collective",
+          "children": [
+            {
+              "name": "Blue Rock Collective",
+              "id": 7935,
+              "children": []
+            },
+            {
+              "name": "The Collective JTF",
+              "id": 7227,
+              "children": []
+            },
+            {
+              "name": "The Collective Resistance",
+              "id": 18597,
+              "children": []
+            }
+          ]
         },
         {
           "name": "The Fallen",
