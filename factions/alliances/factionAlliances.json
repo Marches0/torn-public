@@ -919,26 +919,6 @@
           "children": []
         },
         {
-          "name": "Imminent Apocalypse",
-          "children": [
-            {
-              "name": "IA Black",
-              "id": 35776,
-              "children": []
-            },
-            {
-              "name": "IA Hookers & Blow",
-              "id": 9674,
-              "children": []
-            },
-            {
-              "name": "Imminent Apocalypse",
-              "id": 25874,
-              "children": []
-            }
-          ]
-        },
-        {
           "name": "Impulse",
           "children": [
             {
@@ -1634,6 +1614,26 @@
             {
               "name": "WIT-Revolution",
               "id": 41363,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Imminent Apocalypse",
+          "children": [
+            {
+              "name": "IA Black",
+              "id": 35776,
+              "children": []
+            },
+            {
+              "name": "IA Hookers & Blow",
+              "id": 9674,
+              "children": []
+            },
+            {
+              "name": "Imminent Apocalypse",
+              "id": 25874,
               "children": []
             }
           ]
