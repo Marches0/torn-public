@@ -4,6 +4,11 @@
       "name": "CRyPTo",
       "children": [
         {
+          "name": "The Resolute",
+          "id": 46442,
+          "children": []
+        },
+        {
           "name": "Arcadia",
           "id": 8938,
           "children": []
@@ -1026,11 +1031,6 @@
         {
           "name": "The Phoenix Collective",
           "id": 17991,
-          "children": []
-        },
-        {
-          "name": "The Resolute",
-          "id": 46442,
           "children": []
         },
         {
