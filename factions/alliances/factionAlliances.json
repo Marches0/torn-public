@@ -4,11 +4,6 @@
       "name": "CRyPTo",
       "children": [
         {
-          "name": "The Resolute",
-          "id": 46442,
-          "children": []
-        },
-        {
           "name": "Arcadia",
           "id": 8938,
           "children": []
@@ -316,6 +311,11 @@
         {
           "name": "The Railroad",
           "id": 37498,
+          "children": []
+        },
+        {
+          "name": "The Resolute",
+          "id": 46442,
           "children": []
         },
         {
@@ -849,26 +849,6 @@
       "name": "RoD",
       "children": [
         {
-          "name": "7th St. Assassins",
-          "id": 16634,
-          "children": []
-        },
-        {
-          "name": "C2C",
-          "id": 15286,
-          "children": []
-        },
-        {
-          "name": "Coma Toast",
-          "id": 49837,
-          "children": []
-        },
-        {
-          "name": "Cosmosis",
-          "id": 48526,
-          "children": []
-        },
-        {
           "name": "Damage Inc",
           "children": [
             {
@@ -904,28 +884,8 @@
           ]
         },
         {
-          "name": "Divine Judgement",
-          "id": 11782,
-          "children": []
-        },
-        {
-          "name": "Dog Pen Mafia",
-          "id": 41297,
-          "children": []
-        },
-        {
           "name": "Endless Endeavor",
           "id": 14686,
-          "children": []
-        },
-        {
-          "name": "EPIC Mafia",
-          "id": 40959,
-          "children": []
-        },
-        {
-          "name": "Goblin Horde",
-          "id": 13307,
           "children": []
         },
         {
@@ -947,101 +907,6 @@
               "children": []
             }
           ]
-        },
-        {
-          "name": "Materia",
-          "id": 23193,
-          "children": []
-        },
-        {
-          "name": "Peaky CS",
-          "id": 41234,
-          "children": []
-        },
-        {
-          "name": "Princess Dale's Beavers",
-          "id": 36140,
-          "children": []
-        },
-        {
-          "name": "RHINO'S CARTEL",
-          "id": 49167,
-          "children": []
-        },
-        {
-          "name": "School of Devlins",
-          "id": 16296,
-          "children": []
-        },
-        {
-          "name": "Shiba Inu",
-          "id": 46089,
-          "children": []
-        },
-        {
-          "name": "Shiny Hoard Avian Team",
-          "id": 28073,
-          "children": []
-        },
-        {
-          "name": "TBA",
-          "children": [
-            {
-              "name": "TBA - Rise Above",
-              "id": 6834,
-              "children": []
-            },
-            {
-              "name": "TBA-Rise Again",
-              "id": 40951,
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": "The Black Pearl",
-          "id": 9036,
-          "children": []
-        },
-        {
-          "name": "The Collective",
-          "children": [
-            {
-              "name": "Blue Rock Collective",
-              "id": 7935,
-              "children": []
-            },
-            {
-              "name": "The Collective JTF",
-              "id": 7227,
-              "children": []
-            },
-            {
-              "name": "The Collective Resistance",
-              "id": 18597,
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": "The Fallen",
-          "id": 15154,
-          "children": []
-        },
-        {
-          "name": "The Phoenix Collective",
-          "id": 17991,
-          "children": []
-        },
-        {
-          "name": "The Unwoke",
-          "id": 8152,
-          "children": []
-        },
-        {
-          "name": "Viking Emus",
-          "id": 34623,
-          "children": []
         }
       ]
     },
@@ -1412,6 +1277,11 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": "Peaky CS",
+          "id": 41234,
+          "children": []
         },
         {
           "name": "Ram Rajya",
