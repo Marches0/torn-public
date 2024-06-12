@@ -860,6 +860,11 @@
               "name": "Damage Inc",
               "id": 20747,
               "children": []
+            },
+            {
+              "name": "Endless Endeavor",
+              "id": 14686,
+              "children": []
             }
           ]
         },
@@ -882,11 +887,6 @@
               "children": []
             }
           ]
-        },
-        {
-          "name": "Endless Endeavor",
-          "id": 14686,
-          "children": []
         },
         {
           "name": "Impulse",
