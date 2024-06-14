@@ -4,6 +4,11 @@
       "name": "CRyPTo",
       "children": [
         {
+          "name": "AQUA Neptune",
+          "id": 9357,
+          "children": []
+        },
+        {
           "name": "Arcadia",
           "id": 8938,
           "children": []
@@ -11,11 +16,6 @@
         {
           "name": "Asylum 2.0",
           "id": 16053,
-          "children": []
-        },
-        {
-          "name": "Avalon",
-          "id": 9357,
           "children": []
         },
         {
@@ -372,11 +372,6 @@
           "name": "Vinerri",
           "children": [
             {
-              "name": "Little Famiglia",
-              "id": 19060,
-              "children": []
-            },
-            {
               "name": "Shadow Healers",
               "id": 38761,
               "children": []
@@ -396,11 +391,6 @@
         {
           "name": "Alley Cats",
           "id": 7652,
-          "children": []
-        },
-        {
-          "name": "Bagan Dynasty",
-          "id": 21234,
           "children": []
         },
         {
@@ -446,6 +436,11 @@
         {
           "name": "The Drunk Tank",
           "id": 9953,
+          "children": []
+        },
+        {
+          "name": "Underground Nation",
+          "id": 21234,
           "children": []
         },
         {
@@ -999,6 +994,11 @@
           ]
         },
         {
+          "name": "Euphoria",
+          "id": 40334,
+          "children": []
+        },
+        {
           "name": "FLATLINE",
           "children": [
             {
@@ -1047,13 +1047,13 @@
           "name": "Halos",
           "children": [
             {
-              "name": "Halos",
-              "id": 40918,
+              "name": "Halos Core",
+              "id": 14438,
               "children": []
             },
             {
-              "name": "Halos Core",
-              "id": 14438,
+              "name": "Halos MOB",
+              "id": 40918,
               "children": []
             },
             {
@@ -1072,11 +1072,6 @@
               "children": []
             }
           ]
-        },
-        {
-          "name": "Honey Badgers Medical",
-          "id": 11522,
-          "children": []
         },
         {
           "name": "Imminent Apocalypse",
@@ -1319,7 +1314,7 @@
           "children": []
         },
         {
-          "name": "Savage Nightmare",
+          "name": "Savage Plague",
           "id": 8384,
           "children": []
         },
@@ -1376,6 +1371,11 @@
         {
           "name": "The Hellfire Club",
           "id": 42671,
+          "children": []
+        },
+        {
+          "name": "The Honey Badgers",
+          "id": 11522,
           "children": []
         },
         {
