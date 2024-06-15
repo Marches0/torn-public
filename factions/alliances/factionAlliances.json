@@ -4,9 +4,19 @@
       "name": "CRyPTo",
       "children": [
         {
-          "name": "AQUA Neptune",
-          "id": 9357,
-          "children": []
+          "name": "AQUA",
+          "children": [
+            {
+              "name": "AQUA Neptune",
+              "id": 9357,
+              "children": []
+            },
+            {
+              "name": "AQUA Poseidon",
+              "id": 10174,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Arcadia",
@@ -289,6 +299,11 @@
             {
               "name": "SA One  Punch",
               "id": 33458,
+              "children": []
+            },
+            {
+              "name": "Subversive  Alliance",
+              "id": 2013,
               "children": []
             }
           ]
