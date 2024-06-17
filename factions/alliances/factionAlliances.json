@@ -635,6 +635,11 @@
               "name": "NS Bomb Shelter",
               "id": 21526,
               "children": []
+            },
+            {
+              "name": "Siege",
+              "id": 9110,
+              "children": []
             }
           ]
         },
