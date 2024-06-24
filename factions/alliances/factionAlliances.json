@@ -914,6 +914,26 @@
           ]
         },
         {
+          "name": "DarkHearts",
+          "children": [
+            {
+              "name": "Dark Demons",
+              "id": 16299,
+              "children": []
+            },
+            {
+              "name": "Dark X",
+              "id": 15222,
+              "children": []
+            },
+            {
+              "name": "DarkHearts",
+              "id": 9047,
+              "children": []
+            }
+          ]
+        },
+        {
           "name": "Darkside",
           "id": 12893,
           "children": []
@@ -1370,8 +1390,18 @@
         },
         {
           "name": "The Next Level",
-          "id": 6731,
-          "children": []
+          "children": [
+            {
+              "name": "The Next Level",
+              "id": 6731,
+              "children": []
+            },
+            {
+              "name": "The Next Level - Forge",
+              "id": 10739,
+              "children": []
+            }
+          ]
         },
         {
           "name": "The Pagans",
