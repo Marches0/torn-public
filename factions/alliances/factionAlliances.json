@@ -409,11 +409,6 @@
           "children": []
         },
         {
-          "name": "Delightful Assholes",
-          "id": 26312,
-          "children": []
-        },
-        {
           "name": "JFK",
           "children": [
             {
@@ -424,6 +419,11 @@
             {
               "name": "JFK - Future Killers",
               "id": 14821,
+              "children": []
+            },
+            {
+              "name": "JFK - Misfits",
+              "id": 26312,
               "children": []
             },
             {
