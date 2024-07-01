@@ -7,12 +7,12 @@
           "name": "AQUA",
           "children": [
             {
-              "name": "AQUA Neptune",
+              "name": "AQUA-Neptune",
               "id": 9357,
               "children": []
             },
             {
-              "name": "AQUA Poseidon",
+              "name": "AQUA-Poseidon",
               "id": 10174,
               "children": []
             }
@@ -119,7 +119,7 @@
           ]
         },
         {
-          "name": "Legitimate Business",
+          "name": "Legitimate Industries",
           "id": 9305,
           "children": []
         },
@@ -493,12 +493,12 @@
             },
             {
               "name": "39th Street Warriors",
-              "id": 41702,
+              "id": 31764,
               "children": []
             },
             {
-              "name": "39th Street Worriers",
-              "id": 31764,
+              "name": "Darks is still Thinking",
+              "id": 41702,
               "children": []
             }
           ]
@@ -897,11 +897,6 @@
               "children": []
             },
             {
-              "name": "CR - Almost Ready",
-              "id": 22631,
-              "children": []
-            },
-            {
               "name": "CR - Kosta Nostra",
               "id": 49776,
               "children": []
@@ -974,8 +969,8 @@
           ]
         },
         {
-          "name": "Euphoria",
-          "id": 40334,
+          "name": "Droogs",
+          "id": 11522,
           "children": []
         },
         {
@@ -1027,13 +1022,13 @@
           "name": "Halos",
           "children": [
             {
-              "name": "Halos Core",
-              "id": 14438,
+              "name": "Halos",
+              "id": 7093,
               "children": []
             },
             {
-              "name": "Halos MOB",
-              "id": 40918,
+              "name": "Halos Core",
+              "id": 14438,
               "children": []
             },
             {
@@ -1044,6 +1039,11 @@
             {
               "name": "Halos Nasty",
               "id": 48927,
+              "children": []
+            },
+            {
+              "name": "Halos Pulse",
+              "id": 22631,
               "children": []
             },
             {
@@ -1304,6 +1304,11 @@
           "children": []
         },
         {
+          "name": "Sentinels",
+          "id": 40334,
+          "children": []
+        },
+        {
           "name": "SMTH",
           "children": [
             {
@@ -1361,11 +1366,6 @@
         {
           "name": "The Hellfire Club",
           "id": 42671,
-          "children": []
-        },
-        {
-          "name": "The Honey Badgers",
-          "id": 11522,
           "children": []
         },
         {
