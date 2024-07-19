@@ -4,21 +4,6 @@
       "name": "CRyPTo",
       "children": [
         {
-          "name": "AQUA",
-          "children": [
-            {
-              "name": "AQUA-Neptune",
-              "id": 9357,
-              "children": []
-            },
-            {
-              "name": "AQUA-Poseidon",
-              "id": 10174,
-              "children": []
-            }
-          ]
-        },
-        {
           "name": "Arcadia",
           "id": 8938,
           "children": []
@@ -96,6 +81,11 @@
         {
           "name": "Get Stuffed",
           "id": 8285,
+          "children": []
+        },
+        {
+          "name": "Horizon",
+          "id": 8103,
           "children": []
         },
         {
@@ -912,11 +902,6 @@
           "name": "DarkHearts",
           "children": [
             {
-              "name": "Dark Demons",
-              "id": 16299,
-              "children": []
-            },
-            {
               "name": "Dark X",
               "id": 15222,
               "children": []
@@ -1170,11 +1155,6 @@
               "name": "Monarch Vanguard",
               "id": 21040,
               "children": []
-            },
-            {
-              "name": "Monarch X",
-              "id": 20514,
-              "children": []
             }
           ]
         },
@@ -1261,6 +1241,11 @@
         {
           "name": "Peaky CS",
           "id": 41234,
+          "children": []
+        },
+        {
+          "name": "Project X",
+          "id": 20514,
           "children": []
         },
         {
