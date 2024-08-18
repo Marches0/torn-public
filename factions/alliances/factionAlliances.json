@@ -92,13 +92,13 @@
           "name": "Itsi Bitsi Bikini",
           "children": [
             {
-              "name": "Aquarius",
-              "id": 22295,
+              "name": "[Redacted]",
+              "id": 5431,
               "children": []
             },
             {
-              "name": "Ghost Ship",
-              "id": 5431,
+              "name": "Aquarius",
+              "id": 22295,
               "children": []
             },
             {
@@ -269,6 +269,11 @@
           "children": []
         },
         {
+          "name": "Samurai Uprising*",
+          "id": 39226,
+          "children": []
+        },
+        {
           "name": "Sport Club",
           "id": 937,
           "children": []
@@ -434,11 +439,6 @@
           "children": []
         },
         {
-          "name": "Swiss Squad",
-          "id": 11428,
-          "children": []
-        },
-        {
           "name": "The Drunk Tank",
           "id": 9953,
           "children": []
@@ -484,11 +484,6 @@
             {
               "name": "39th Street Warriors",
               "id": 31764,
-              "children": []
-            },
-            {
-              "name": "Darks is still Thinking",
-              "id": 41702,
               "children": []
             }
           ]
@@ -730,18 +725,8 @@
         },
         {
           "name": "Ruthless Reborn",
-          "children": [
-            {
-              "name": "Ruthless Reborn",
-              "id": 8062,
-              "children": []
-            },
-            {
-              "name": "Ruthless Reborn II",
-              "id": 48965,
-              "children": []
-            }
-          ]
+          "id": 8062,
+          "children": []
         },
         {
           "name": "The Black Hand",
@@ -812,7 +797,7 @@
               "children": []
             },
             {
-              "name": "The Nights Watch",
+              "name": "The Night's Watch",
               "id": 42650,
               "children": []
             },
@@ -874,6 +859,11 @@
           "children": []
         },
         {
+          "name": "Berserk",
+          "id": 9420,
+          "children": []
+        },
+        {
           "name": "Bloodbath and Beyond",
           "id": 8468,
           "children": []
@@ -926,6 +916,11 @@
         {
           "name": "Desert Eagle",
           "id": 27370,
+          "children": []
+        },
+        {
+          "name": "Desert Phoenix",
+          "id": 35090,
           "children": []
         },
         {
@@ -1023,7 +1018,7 @@
             },
             {
               "name": "Halos Nasty",
-              "id": 48927,
+              "id": 48252,
               "children": []
             },
             {
@@ -1277,11 +1272,6 @@
               "children": []
             }
           ]
-        },
-        {
-          "name": "Sacrifice",
-          "id": 9420,
-          "children": []
         },
         {
           "name": "Savage Plague",
