@@ -324,11 +324,6 @@
           "children": []
         },
         {
-          "name": "The Four Twenty C-K-A",
-          "id": 16503,
-          "children": []
-        },
-        {
           "name": "The House Of Retribution",
           "id": 12912,
           "children": []
@@ -472,6 +467,21 @@
           "name": "The Drunk Tank",
           "id": 9953,
           "children": []
+        },
+        {
+          "name": "The Four Twenty",
+          "children": [
+            {
+              "name": "The Four Twenty C-K-A",
+              "id": 16503,
+              "children": []
+            },
+            {
+              "name": "The Four Twenty H-V-F",
+              "id": 49561,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Underground Nation",
