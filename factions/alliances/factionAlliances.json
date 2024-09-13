@@ -1144,11 +1144,6 @@
           ]
         },
         {
-          "name": "insurreXtion",
-          "id": 2095,
-          "children": []
-        },
-        {
           "name": "Little Stompers",
           "id": 27223,
           "children": []
@@ -1344,6 +1339,11 @@
             {
               "name": "SMTH - Concord",
               "id": 27902,
+              "children": []
+            },
+            {
+              "name": "SMTH - Healing Pulse",
+              "id": 2095,
               "children": []
             },
             {
