@@ -207,7 +207,7 @@
               "children": []
             },
             {
-              "name": "PT-Erodactyls",
+              "name": "PT-erodactyls",
               "id": 41225,
               "children": []
             },
@@ -380,8 +380,18 @@
         },
         {
           "name": "The Saviors",
-          "id": 9405,
-          "children": []
+          "children": [
+            {
+              "name": "The Savior Elites",
+              "id": 20303,
+              "children": []
+            },
+            {
+              "name": "The Saviors",
+              "id": 9405,
+              "children": []
+            }
+          ]
         },
         {
           "name": "The Sick Bay",
@@ -1149,11 +1159,6 @@
           ]
         },
         {
-          "name": "Little Stompers",
-          "id": 27223,
-          "children": []
-        },
-        {
           "name": "Materia",
           "id": 23193,
           "children": []
@@ -1394,6 +1399,11 @@
           ]
         },
         {
+          "name": "Stompers",
+          "id": 27223,
+          "children": []
+        },
+        {
           "name": "The Brotherhood of Battle",
           "id": 8795,
           "children": []
@@ -1554,11 +1564,6 @@
             {
               "name": "Wolf Pack Next Generation",
               "id": 15120,
-              "children": []
-            },
-            {
-              "name": "Wolf Pack Revival",
-              "id": 20303,
               "children": []
             }
           ]
