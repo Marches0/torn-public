@@ -437,6 +437,11 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": "Violent Resolution",
+          "id": 36274,
+          "children": []
         }
       ]
     },
@@ -1431,6 +1436,11 @@
         {
           "name": "The Iron Retribution",
           "id": 37530,
+          "children": []
+        },
+        {
+          "name": "The Midnight Club",
+          "id": 47238,
           "children": []
         },
         {
