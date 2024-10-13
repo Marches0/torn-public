@@ -29,11 +29,6 @@
           "children": []
         },
         {
-          "name": "Capacity X",
-          "id": 16247,
-          "children": []
-        },
-        {
           "name": "Catch 22",
           "id": 37185,
           "children": []
@@ -84,8 +79,8 @@
           "children": []
         },
         {
-          "name": "Horizon",
-          "id": 8103,
+          "name": "HeLa",
+          "id": 7197,
           "children": []
         },
         {
@@ -432,6 +427,21 @@
           "name": "Violent Resolution",
           "id": 36274,
           "children": []
+        },
+        {
+          "name": "X Family",
+          "children": [
+            {
+              "name": "Capacity X",
+              "id": 16247,
+              "children": []
+            },
+            {
+              "name": "Fallen X",
+              "id": 9528,
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -947,11 +957,6 @@
               "children": []
             },
             {
-              "name": "CR - Kosta Nostra",
-              "id": 49776,
-              "children": []
-            },
-            {
               "name": "CR-ACK",
               "id": 20211,
               "children": []
@@ -972,11 +977,6 @@
               "children": []
             }
           ]
-        },
-        {
-          "name": "Dead Body Crew",
-          "id": 39580,
-          "children": []
         },
         {
           "name": "Desert Eagle",
@@ -1100,6 +1100,11 @@
               "name": "Halos Rise",
               "id": 16079,
               "children": []
+            },
+            {
+              "name": "Halos Vanguard",
+              "id": 39580,
+              "children": []
             }
           ]
         },
@@ -1114,6 +1119,11 @@
             {
               "name": "Imminent Apocalypse",
               "id": 25874,
+              "children": []
+            },
+            {
+              "name": "Smells like Sex",
+              "id": 9674,
               "children": []
             }
           ]
@@ -1162,13 +1172,13 @@
               "children": []
             },
             {
-              "name": "Pawsitive Medics",
-              "id": 38887,
+              "name": "Luscious Incarnation",
+              "id": 27554,
               "children": []
             },
             {
-              "name": "Spawtans",
-              "id": 27554,
+              "name": "Pawsitive Medics",
+              "id": 38887,
               "children": []
             }
           ]
@@ -1351,11 +1361,6 @@
         {
           "name": "Sentinels",
           "id": 40334,
-          "children": []
-        },
-        {
-          "name": "Smells like Sex",
-          "id": 9674,
           "children": []
         },
         {
