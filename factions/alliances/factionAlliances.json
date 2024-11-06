@@ -964,21 +964,6 @@
           ]
         },
         {
-          "name": "DarkHearts",
-          "children": [
-            {
-              "name": "Dark X",
-              "id": 15222,
-              "children": []
-            },
-            {
-              "name": "DarkHearts",
-              "id": 9047,
-              "children": []
-            }
-          ]
-        },
-        {
           "name": "Desert Eagle",
           "id": 27370,
           "children": []
@@ -1587,7 +1572,7 @@
               "children": []
             },
             {
-              "name": "Wolverines Gone Wild",
+              "name": "Wolverines Resurrected",
               "id": 30820,
               "children": []
             },
