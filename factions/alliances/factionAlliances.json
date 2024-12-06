@@ -1087,11 +1087,6 @@
               "children": []
             },
             {
-              "name": "Halos Nasty",
-              "id": 48252,
-              "children": []
-            },
-            {
               "name": "Halos Pulse",
               "id": 22631,
               "children": []
@@ -1151,11 +1146,6 @@
         {
           "name": "Infernum",
           "children": [
-            {
-              "name": "Infernum Apocalypse",
-              "id": 48640,
-              "children": []
-            },
             {
               "name": "Infernum Perdition",
               "id": 11131,
@@ -1339,6 +1329,11 @@
           "children": []
         },
         {
+          "name": "Phoenix Ascent",
+          "id": 48640,
+          "children": []
+        },
+        {
           "name": "Ravage",
           "id": 15655,
           "children": []
@@ -1442,21 +1437,6 @@
           "name": "The Hellfire Club",
           "id": 42671,
           "children": []
-        },
-        {
-          "name": "The Iron Family",
-          "children": [
-            {
-              "name": "The Iron Phoenix",
-              "id": 9370,
-              "children": []
-            },
-            {
-              "name": "The Iron Retribution",
-              "id": 37530,
-              "children": []
-            }
-          ]
         },
         {
           "name": "The Midnight Club",
