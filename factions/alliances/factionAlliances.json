@@ -599,11 +599,6 @@
           ]
         },
         {
-          "name": "Auroras Fallen Medics",
-          "id": 36457,
-          "children": []
-        },
-        {
           "name": "Buttgrass Inc",
           "id": 8803,
           "children": []
@@ -837,6 +832,11 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": "Warband of the Fallen",
+          "id": 36457,
+          "children": []
         },
         {
           "name": "WarBirds",
@@ -1094,11 +1094,6 @@
             {
               "name": "Halos Rise",
               "id": 16079,
-              "children": []
-            },
-            {
-              "name": "Halos Vanguard",
-              "id": 39580,
               "children": []
             }
           ]
