@@ -365,18 +365,8 @@
         },
         {
           "name": "The Saviors",
-          "children": [
-            {
-              "name": "The Saviors",
-              "id": 9405,
-              "children": []
-            },
-            {
-              "name": "The Saviors: Outpost",
-              "id": 20303,
-              "children": []
-            }
-          ]
+          "id": 20303,
+          "children": []
         },
         {
           "name": "The Sick Bay",
@@ -987,6 +977,11 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": "Dark X",
+          "id": 15222,
+          "children": []
         },
         {
           "name": "Desert Eagle",
