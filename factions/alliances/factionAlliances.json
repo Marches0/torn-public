@@ -54,11 +54,6 @@
           ]
         },
         {
-          "name": "Clockwork Orange",
-          "id": 44865,
-          "children": []
-        },
-        {
           "name": "Crime Syndicate",
           "id": 43325,
           "children": []
@@ -232,6 +227,11 @@
               "children": []
             },
             {
+              "name": "PT-Slinkys",
+              "id": 46978,
+              "children": []
+            },
+            {
               "name": "PT-SunnyVale",
               "id": 45415,
               "children": []
@@ -292,13 +292,13 @@
               "children": []
             },
             {
-              "name": "SA Infinite - Recruiting",
-              "id": 13383,
+              "name": "SA House of Mischief",
+              "id": 33458,
               "children": []
             },
             {
-              "name": "SA One  Punch",
-              "id": 33458,
+              "name": "SA Infinite - Recruiting",
+              "id": 13383,
               "children": []
             },
             {
@@ -415,8 +415,18 @@
         },
         {
           "name": "Violent Resolution",
-          "id": 36274,
-          "children": []
+          "children": [
+            {
+              "name": "Violent Resolution",
+              "id": 44865,
+              "children": []
+            },
+            {
+              "name": "Violent Resolution II",
+              "id": 36274,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Wargasm",
