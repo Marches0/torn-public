@@ -1072,11 +1072,6 @@
               "children": []
             },
             {
-              "name": "Halos Core",
-              "id": 14438,
-              "children": []
-            },
-            {
               "name": "Halos Momentum",
               "id": 37786,
               "children": []
@@ -1084,11 +1079,6 @@
             {
               "name": "Halos Pulse",
               "id": 22631,
-              "children": []
-            },
-            {
-              "name": "Halos Rise",
-              "id": 16079,
               "children": []
             }
           ]
@@ -1139,11 +1129,6 @@
             {
               "name": "Infernum Perdition",
               "id": 11131,
-              "children": []
-            },
-            {
-              "name": "Infernum Spawned",
-              "id": 17055,
               "children": []
             }
           ]
