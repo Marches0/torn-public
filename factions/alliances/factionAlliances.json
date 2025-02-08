@@ -287,11 +287,6 @@
           "name": "Subversive Alliance",
           "children": [
             {
-              "name": "SA  Equilibrium",
-              "id": 27312,
-              "children": []
-            },
-            {
               "name": "SA House of Mischief",
               "id": 33458,
               "children": []
@@ -299,6 +294,11 @@
             {
               "name": "SA Infinite - Recruiting",
               "id": 13383,
+              "children": []
+            },
+            {
+              "name": "SA Succession",
+              "id": 27312,
               "children": []
             },
             {
@@ -913,17 +913,12 @@
             },
             {
               "name": "WTF Ducks",
-              "id": 37537,
+              "id": 29865,
               "children": []
             },
             {
               "name": "WTF Healers",
               "id": 12863,
-              "children": []
-            },
-            {
-              "name": "WTF Resurrection",
-              "id": 29865,
               "children": []
             }
           ]
@@ -987,11 +982,6 @@
               "children": []
             }
           ]
-        },
-        {
-          "name": "Dark X",
-          "id": 15222,
-          "children": []
         },
         {
           "name": "Desert Eagle",
@@ -1179,6 +1169,11 @@
             {
               "name": "Luscious Incarnation",
               "id": 8802,
+              "children": []
+            },
+            {
+              "name": "Luscious Nightmares",
+              "id": 37537,
               "children": []
             }
           ]
@@ -1464,13 +1459,13 @@
           ]
         },
         {
-          "name": "The Pagans",
-          "id": 26437,
+          "name": "The Project Syndicate",
+          "id": 8322,
           "children": []
         },
         {
-          "name": "The Project Syndicate",
-          "id": 8322,
+          "name": "The Prowl",
+          "id": 26437,
           "children": []
         },
         {
