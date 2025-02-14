@@ -630,8 +630,18 @@
         },
         {
           "name": "Dystopia",
-          "id": 22492,
-          "children": []
+          "children": [
+            {
+              "name": "Dystopia",
+              "id": 22492,
+              "children": []
+            },
+            {
+              "name": "Wartopia",
+              "id": 50890,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Elemental",
