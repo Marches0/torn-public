@@ -540,8 +540,23 @@
         },
         {
           "name": "Valhalla - Barna",
-          "id": 38668,
-          "children": []
+          "children": [
+            {
+              "name": "Valhalla - Barna",
+              "id": 38668,
+              "children": []
+            },
+            {
+              "name": "Valhalla - Laekna",
+              "id": 49090,
+              "children": []
+            },
+            {
+              "name": "Valhalla - Pillagers",
+              "id": 49473,
+              "children": []
+            }
+          ]
         }
       ]
     },
