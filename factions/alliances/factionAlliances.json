@@ -964,19 +964,9 @@
           "children": []
         },
         {
-          "name": "AQUA",
-          "children": [
-            {
-              "name": "AQUA-Neptune",
-              "id": 9357,
-              "children": []
-            },
-            {
-              "name": "AQUA-Poseidon",
-              "id": 10174,
-              "children": []
-            }
-          ]
+          "name": "AQUA-Poseidon",
+          "id": 10174,
+          "children": []
         },
         {
           "name": "Aurora Surrealis",
@@ -1204,6 +1194,11 @@
             {
               "name": "Monarch HQ",
               "id": 8336,
+              "children": []
+            },
+            {
+              "name": "Monarch Mavericks",
+              "id": 9357,
               "children": []
             },
             {
