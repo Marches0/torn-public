@@ -279,14 +279,19 @@
           "children": []
         },
         {
-          "name": "Rising Reckoning",
-          "id": 20554,
-          "children": []
-        },
-        {
-          "name": "Samurai Uprising*",
-          "id": 39226,
-          "children": []
+          "name": "Samurai",
+          "children": [
+            {
+              "name": "Samurai Uprising*",
+              "id": 39226,
+              "children": []
+            },
+            {
+              "name": "Samurai Warlords*",
+              "id": 20554,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Sport Club",
@@ -1059,11 +1064,6 @@
           ]
         },
         {
-          "name": "Gladiators",
-          "id": 49147,
-          "children": []
-        },
-        {
           "name": "Glory to Heroes",
           "id": 16057,
           "children": []
@@ -1465,8 +1465,18 @@
         },
         {
           "name": "Valor",
-          "id": 41929,
-          "children": []
+          "children": [
+            {
+              "name": "Gladiators",
+              "id": 49147,
+              "children": []
+            },
+            {
+              "name": "Valor",
+              "id": 41929,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Vulpes Vulpes",
