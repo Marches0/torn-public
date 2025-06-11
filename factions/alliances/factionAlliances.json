@@ -5,8 +5,18 @@
       "children": [
         {
           "name": "Arcadia",
-          "id": 8938,
-          "children": []
+          "children": [
+            {
+              "name": "Arcadia",
+              "id": 8938,
+              "children": []
+            },
+            {
+              "name": "Arcadia Rising",
+              "id": 41702,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Asylum 2.0",
