@@ -152,11 +152,6 @@
               "children": []
             },
             {
-              "name": "Midnight Judgement",
-              "id": 11782,
-              "children": []
-            },
-            {
               "name": "Midnight Plague",
               "id": 23952,
               "children": []
@@ -282,11 +277,6 @@
               "children": []
             }
           ]
-        },
-        {
-          "name": "Riot",
-          "id": 41419,
-          "children": []
         },
         {
           "name": "Samurai",
@@ -1139,7 +1129,7 @@
           ]
         },
         {
-          "name": "Infernum-",
+          "name": "Infernum Perdition",
           "id": 11131,
           "children": []
         },
@@ -1237,6 +1227,11 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": "Neon Cartel",
+          "id": 41419,
+          "children": []
         },
         {
           "name": "Nub Army",
@@ -1377,11 +1372,6 @@
               "children": []
             },
             {
-              "name": "SMTH - Healing Pulse",
-              "id": 2095,
-              "children": []
-            },
-            {
               "name": "SMTH - Hermit Sage",
               "id": 14633,
               "children": []
@@ -1389,6 +1379,11 @@
             {
               "name": "SMTH - HoYoverse",
               "id": 16424,
+              "children": []
+            },
+            {
+              "name": "SMTH - Huang Pu",
+              "id": 2095,
               "children": []
             },
             {
