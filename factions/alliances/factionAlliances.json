@@ -482,7 +482,7 @@
               "children": []
             },
             {
-              "name": "Fallen X",
+              "name": "Med X",
               "id": 9528,
               "children": []
             }
@@ -927,11 +927,6 @@
               "children": []
             },
             {
-              "name": "White Walkers",
-              "id": 8536,
-              "children": []
-            },
-            {
               "name": "Winter is Coming",
               "id": 16040,
               "children": []
@@ -1199,11 +1194,6 @@
             {
               "name": "Monarch HQ",
               "id": 8336,
-              "children": []
-            },
-            {
-              "name": "Monarch Mavericks",
-              "id": 9357,
               "children": []
             },
             {
