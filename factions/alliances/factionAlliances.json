@@ -1092,6 +1092,11 @@
           "name": "Imminent Apocalypse",
           "children": [
             {
+              "name": "Hookers n Blow",
+              "id": 9674,
+              "children": []
+            },
+            {
               "name": "IA Black",
               "id": 35776,
               "children": []
@@ -1104,11 +1109,6 @@
             {
               "name": "Imminent Apocalypse",
               "id": 25874,
-              "children": []
-            },
-            {
-              "name": "Smells like Sex",
-              "id": 9674,
               "children": []
             }
           ]
@@ -1147,13 +1147,13 @@
               "children": []
             },
             {
-              "name": "Luscious Healers",
-              "id": 27554,
+              "name": "Luscious Incarnation",
+              "id": 8802,
               "children": []
             },
             {
-              "name": "Luscious Incarnation",
-              "id": 8802,
+              "name": "Luscious Kittens",
+              "id": 27554,
               "children": []
             },
             {
@@ -1444,6 +1444,11 @@
             {
               "name": "The Next Level - Forge",
               "id": 10739,
+              "children": []
+            },
+            {
+              "name": "The Next Level-Mavericks",
+              "id": 9357,
               "children": []
             }
           ]
