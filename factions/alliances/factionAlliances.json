@@ -587,11 +587,6 @@
           "name": "39th Street",
           "children": [
             {
-              "name": "39th Street Chillers",
-              "id": 22680,
-              "children": []
-            },
-            {
               "name": "39th Street Healers",
               "id": 7049,
               "children": []
@@ -604,6 +599,11 @@
             {
               "name": "39th Street Killers X",
               "id": 16312,
+              "children": []
+            },
+            {
+              "name": "39th Street Reapers",
+              "id": 22680,
               "children": []
             },
             {
