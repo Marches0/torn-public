@@ -809,11 +809,6 @@
           ]
         },
         {
-          "name": "Pennywise Clown Posse",
-          "id": 40774,
-          "children": []
-        },
-        {
           "name": "Rabid Chihuahuas",
           "id": 36691,
           "children": []
@@ -974,9 +969,19 @@
           "children": []
         },
         {
-          "name": "Aurora Surrealis",
-          "id": 12249,
-          "children": []
+          "name": "Aurora S",
+          "children": [
+            {
+              "name": "Aurora Solaris",
+              "id": 14441,
+              "children": []
+            },
+            {
+              "name": "Aurora Surrealis",
+              "id": 12249,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Bloodbath and Beyond",
@@ -1147,13 +1152,13 @@
               "children": []
             },
             {
-              "name": "Luscious Incarnation",
-              "id": 8802,
+              "name": "Luscious Healers",
+              "id": 27554,
               "children": []
             },
             {
-              "name": "Luscious Kittens",
-              "id": 27554,
+              "name": "Luscious Incarnation",
+              "id": 8802,
               "children": []
             },
             {
