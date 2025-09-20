@@ -267,7 +267,7 @@
               "children": []
             },
             {
-              "name": "REK Juniors",
+              "name": "REK Rebels",
               "id": 11108,
               "children": []
             },
@@ -284,19 +284,9 @@
           ]
         },
         {
-          "name": "Samurai",
-          "children": [
-            {
-              "name": "Samurai Uprising*",
-              "id": 39226,
-              "children": []
-            },
-            {
-              "name": "Samurai Warlords*",
-              "id": 20554,
-              "children": []
-            }
-          ]
+          "name": "Samurai Warlords*",
+          "id": 20554,
+          "children": []
         },
         {
           "name": "Sport Club",
