@@ -197,6 +197,11 @@
           "name": "PT",
           "children": [
             {
+              "name": "Burritos & Baja Blast",
+              "id": 36274,
+              "children": []
+            },
+            {
               "name": "PT-Calculated",
               "id": 9041,
               "children": []
@@ -267,7 +272,7 @@
               "children": []
             },
             {
-              "name": "REK Rebels",
+              "name": "REK Juniors",
               "id": 11108,
               "children": []
             },
@@ -425,18 +430,8 @@
         },
         {
           "name": "Violent Resolution",
-          "children": [
-            {
-              "name": "Violent Resolution",
-              "id": 44865,
-              "children": []
-            },
-            {
-              "name": "Violent Resolution II",
-              "id": 36274,
-              "children": []
-            }
-          ]
+          "id": 44865,
+          "children": []
         },
         {
           "name": "Wargasm",
@@ -1042,7 +1037,7 @@
               "children": []
             },
             {
-              "name": "Darkline",
+              "name": "DARKLINE",
               "id": 12893,
               "children": []
             },
