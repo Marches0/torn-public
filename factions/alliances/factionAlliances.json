@@ -1427,6 +1427,11 @@
           "name": "The Next Level",
           "children": [
             {
+              "name": "Next Level Mayhem",
+              "id": 525,
+              "children": []
+            },
+            {
               "name": "The Next Level",
               "id": 6731,
               "children": []
