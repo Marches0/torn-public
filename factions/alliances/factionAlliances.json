@@ -829,13 +829,8 @@
           "children": []
         },
         {
-          "name": "The Black Hand",
+          "name": "The Red Knights",
           "children": [
-            {
-              "name": "The Black Hand",
-              "id": 9100,
-              "children": []
-            },
             {
               "name": "The Black Hand: Legacy",
               "id": 27458,
@@ -1209,6 +1204,11 @@
             {
               "name": "Monarch Vanguard",
               "id": 21040,
+              "children": []
+            },
+            {
+              "name": "The Black Hand",
+              "id": 9100,
               "children": []
             }
           ]
