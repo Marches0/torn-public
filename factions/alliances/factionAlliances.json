@@ -934,6 +934,11 @@
           "children": []
         },
         {
+          "name": "Asclepius",
+          "id": 27554,
+          "children": []
+        },
+        {
           "name": "Aurora S",
           "children": [
             {
@@ -1006,6 +1011,11 @@
         {
           "name": "Droogs",
           "id": 11522,
+          "children": []
+        },
+        {
+          "name": "DropBears",
+          "id": 21665,
           "children": []
         },
         {
@@ -1104,36 +1114,6 @@
           "children": []
         },
         {
-          "name": "Luscious",
-          "children": [
-            {
-              "name": "Luscious Dreams",
-              "id": 7282,
-              "children": []
-            },
-            {
-              "name": "Luscious Estuary",
-              "id": 20659,
-              "children": []
-            },
-            {
-              "name": "Luscious Healers",
-              "id": 27554,
-              "children": []
-            },
-            {
-              "name": "Luscious Incarnation",
-              "id": 8802,
-              "children": []
-            },
-            {
-              "name": "Luscious Nightmares",
-              "id": 15286,
-              "children": []
-            }
-          ]
-        },
-        {
           "name": "Materia",
           "id": 23193,
           "children": []
@@ -1141,11 +1121,6 @@
         {
           "name": "Monarch",
           "children": [
-            {
-              "name": "Monarch Army of Light",
-              "id": 21665,
-              "children": []
-            },
             {
               "name": "Monarch Chrysalis",
               "id": 8867,
@@ -1192,7 +1167,7 @@
               "children": []
             },
             {
-              "name": "The Black Hand",
+              "name": "The Black Hand of Monarch",
               "id": 9100,
               "children": []
             }
@@ -1342,18 +1317,18 @@
               "children": []
             },
             {
-              "name": "SMTH - Hermit Sage",
+              "name": "SMTH - High Pressure",
+              "id": 2095,
+              "children": []
+            },
+            {
+              "name": "SMTH - Hive Signal",
               "id": 14633,
               "children": []
             },
             {
               "name": "SMTH - HoYoverse",
               "id": 16424,
-              "children": []
-            },
-            {
-              "name": "SMTH - Huang Pu",
-              "id": 2095,
               "children": []
             },
             {
@@ -1409,6 +1384,11 @@
           "children": []
         },
         {
+          "name": "The Muses",
+          "id": 8802,
+          "children": []
+        },
+        {
           "name": "The Next Level",
           "children": [
             {
@@ -1444,6 +1424,11 @@
           "children": []
         },
         {
+          "name": "Unchained",
+          "id": 15286,
+          "children": []
+        },
+        {
           "name": "Unity",
           "id": 20501,
           "children": []
@@ -1462,6 +1447,11 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": "Vice",
+          "id": 7282,
+          "children": []
         },
         {
           "name": "Vulpes Vulpes",
