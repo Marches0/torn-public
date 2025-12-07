@@ -197,11 +197,6 @@
           "name": "PT",
           "children": [
             {
-              "name": "Burritos & Baja Blast",
-              "id": 36274,
-              "children": []
-            },
-            {
               "name": "PT-Calculated",
               "id": 9041,
               "children": []
@@ -412,7 +407,7 @@
           "name": "Vinerri",
           "children": [
             {
-              "name": "Shadow Healers",
+              "name": "Vinerri Shadow Cult",
               "id": 38761,
               "children": []
             },
@@ -431,11 +426,6 @@
         {
           "name": "Wargasm",
           "children": [
-            {
-              "name": "Wargasm 2.0",
-              "id": 13525,
-              "children": []
-            },
             {
               "name": "Wargasm HQ",
               "id": 30085,
@@ -1127,6 +1117,11 @@
               "children": []
             },
             {
+              "name": "Monarch Contagion",
+              "id": 34247,
+              "children": []
+            },
+            {
               "name": "Monarch Cupid",
               "id": 8422,
               "children": []
@@ -1142,13 +1137,13 @@
               "children": []
             },
             {
-              "name": "Monarch Mutation",
-              "id": 7835,
+              "name": "Monarch Leviathan",
+              "id": 40518,
               "children": []
             },
             {
-              "name": "Monarch Leviathan",
-              "id": 40518,
+              "name": "Monarch Mutation",
+              "id": 7835,
               "children": []
             },
             {
