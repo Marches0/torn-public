@@ -407,13 +407,13 @@
           "name": "Vinerri",
           "children": [
             {
-              "name": "Vinerri Shadow Cult",
-              "id": 38761,
+              "name": "Vinerri",
+              "id": 8836,
               "children": []
             },
             {
-              "name": "Vinerri",
-              "id": 8836,
+              "name": "Vinerri Shadow Cult",
+              "id": 38761,
               "children": []
             }
           ]
@@ -691,6 +691,11 @@
         {
           "name": "Kingsmen",
           "id": 35739,
+          "children": []
+        },
+        {
+          "name": "Mana",
+          "id": 8677,
           "children": []
         },
         {
