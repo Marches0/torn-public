@@ -934,6 +934,11 @@
           "children": []
         },
         {
+          "name": "Atlas",
+          "id": 8802,
+          "children": []
+        },
+        {
           "name": "Aurora S",
           "children": [
             {
@@ -1381,11 +1386,6 @@
         {
           "name": "The Midnight Club",
           "id": 47238,
-          "children": []
-        },
-        {
-          "name": "The Muses",
-          "id": 8802,
           "children": []
         },
         {
