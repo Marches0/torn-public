@@ -227,7 +227,7 @@
               "children": []
             },
             {
-              "name": "PT-Penguins",
+              "name": "PT-Painguins",
               "id": 13665,
               "children": []
             },
@@ -487,13 +487,13 @@
               "children": []
             },
             {
-              "name": "JFK 2.1",
-              "id": 14365,
+              "name": "JFR",
+              "id": 6924,
               "children": []
             },
             {
-              "name": "JFR",
-              "id": 6924,
+              "name": "Just Fer Khaos",
+              "id": 14365,
               "children": []
             }
           ]
@@ -1014,19 +1014,14 @@
           "children": []
         },
         {
-          "name": "Aurora S",
-          "children": [
-            {
-              "name": "Aurora Solaris",
-              "id": 14441,
-              "children": []
-            },
-            {
-              "name": "Aurora Surrealis",
-              "id": 12249,
-              "children": []
-            }
-          ]
+          "name": "Aurora Surrealis",
+          "id": 12249,
+          "children": []
+        },
+        {
+          "name": "Bastards By Design",
+          "id": 14441,
+          "children": []
         },
         {
           "name": "Bloodbath and Beyond",
@@ -1089,11 +1084,6 @@
           "children": []
         },
         {
-          "name": "DropBears",
-          "id": 21665,
-          "children": []
-        },
-        {
           "name": "FLATLINE",
           "children": [
             {
@@ -1148,7 +1138,7 @@
           "children": [
             {
               "name": "Hookers n Blow",
-              "id": 9674,
+              "id": 25874,
               "children": []
             },
             {
@@ -1157,13 +1147,8 @@
               "children": []
             },
             {
-              "name": "IA Bunker",
-              "id": 43785,
-              "children": []
-            },
-            {
               "name": "Imminent Apocalypse",
-              "id": 25874,
+              "id": 43785,
               "children": []
             }
           ]
@@ -1349,6 +1334,11 @@
           "children": []
         },
         {
+          "name": "Premature Attackulation",
+          "id": 9357,
+          "children": []
+        },
+        {
           "name": "Ravage",
           "id": 15655,
           "children": []
@@ -1484,11 +1474,6 @@
             {
               "name": "The Next Level - Forge",
               "id": 10739,
-              "children": []
-            },
-            {
-              "name": "The Next Level-Mavericks",
-              "id": 9357,
               "children": []
             }
           ]
