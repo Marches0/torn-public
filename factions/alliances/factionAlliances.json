@@ -551,6 +551,81 @@
       ]
     },
     {
+      "name": "NWA",
+      "children": [
+        {
+          "name": "|HT|",
+          "id": 9524,
+          "children": []
+        },
+        {
+          "name": "BIRDS OF PASSAGE",
+          "id": 48461,
+          "children": []
+        },
+        {
+          "name": "HitchHikers",
+          "id": 38063,
+          "children": []
+        },
+        {
+          "name": "Jokerz",
+          "id": 38482,
+          "children": []
+        },
+        {
+          "name": "Kingdom of Asgard",
+          "id": 40692,
+          "children": []
+        },
+        {
+          "name": "The Askelads",
+          "id": 41309,
+          "children": []
+        },
+        {
+          "name": "The Red Circle",
+          "id": 22932,
+          "children": []
+        },
+        {
+          "name": "The Untouchables",
+          "id": 6799,
+          "children": []
+        },
+        {
+          "name": "TNU",
+          "children": [
+            {
+              "name": "TNU - Headquarters",
+              "id": 7074,
+              "children": []
+            },
+            {
+              "name": "TNU - Underground Academy",
+              "id": 22814,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Torn Galactic Republic",
+          "id": 13131,
+          "children": []
+        },
+        {
+          "name": "UNiTed Flying Doctors",
+          "id": 41164,
+          "children": []
+        },
+        {
+          "name": "Warhawks",
+          "id": 49922,
+          "children": []
+        }
+      ]
+    },
+    {
       "name": "OBN",
       "children": [
         {
