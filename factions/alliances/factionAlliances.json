@@ -169,11 +169,6 @@
           "children": []
         },
         {
-          "name": "Onion Smugglers",
-          "id": 6974,
-          "children": []
-        },
-        {
           "name": "OverWatch",
           "id": 9517,
           "children": []
@@ -539,11 +534,6 @@
             {
               "name": "Valhalla - Laekna",
               "id": 49090,
-              "children": []
-            },
-            {
-              "name": "Valhalla - Pillagers",
-              "id": 49473,
               "children": []
             }
           ]
@@ -1019,11 +1009,6 @@
           "children": []
         },
         {
-          "name": "Bastards By Design",
-          "id": 14441,
-          "children": []
-        },
-        {
           "name": "Bloodbath and Beyond",
           "id": 8468,
           "children": []
@@ -1207,6 +1192,11 @@
               "children": []
             },
             {
+              "name": "Monarch Killers",
+              "id": 14441,
+              "children": []
+            },
+            {
               "name": "Monarch Leviathan",
               "id": 40518,
               "children": []
@@ -1237,6 +1227,11 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": "Mortiferi",
+          "id": 15222,
+          "children": []
         },
         {
           "name": "Neon Cartel",
@@ -1331,11 +1326,6 @@
         {
           "name": "Phoenix Ascent",
           "id": 48640,
-          "children": []
-        },
-        {
-          "name": "Premature Attackulation",
-          "id": 9357,
           "children": []
         },
         {
@@ -1454,31 +1444,6 @@
           "children": []
         },
         {
-          "name": "The Next Level",
-          "children": [
-            {
-              "name": "Next Level Ascension",
-              "id": 1117,
-              "children": []
-            },
-            {
-              "name": "Next Level Mayhem",
-              "id": 525,
-              "children": []
-            },
-            {
-              "name": "The Next Level",
-              "id": 6731,
-              "children": []
-            },
-            {
-              "name": "The Next Level - Forge",
-              "id": 10739,
-              "children": []
-            }
-          ]
-        },
-        {
           "name": "The Project Syndicate",
           "id": 8322,
           "children": []
@@ -1489,9 +1454,24 @@
           "children": []
         },
         {
-          "name": "Unchained",
-          "id": 15286,
-          "children": []
+          "name": "Undead",
+          "children": [
+            {
+              "name": "Undead Basilisk",
+              "id": 50553,
+              "children": []
+            },
+            {
+              "name": "Undead Hydra",
+              "id": 39226,
+              "children": []
+            },
+            {
+              "name": "Undead Ravens",
+              "id": 15286,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Unity",
