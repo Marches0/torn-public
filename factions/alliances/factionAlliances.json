@@ -129,11 +129,6 @@
           "children": []
         },
         {
-          "name": "Lingering Insanity",
-          "id": 8400,
-          "children": []
-        },
-        {
           "name": "MORTAL LEGENDS",
           "id": 95,
           "children": []
@@ -492,6 +487,11 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": "Lingering Insanity",
+          "id": 8400,
+          "children": []
         },
         {
           "name": "Order Through Chaos",
