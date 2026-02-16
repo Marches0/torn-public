@@ -189,71 +189,6 @@
           ]
         },
         {
-          "name": "PT",
-          "children": [
-            {
-              "name": "PT-Calculated",
-              "id": 9041,
-              "children": []
-            },
-            {
-              "name": "PT-erodactyls",
-              "id": 41225,
-              "children": []
-            },
-            {
-              "name": "PT-Family",
-              "id": 230,
-              "children": []
-            },
-            {
-              "name": "PT-Guemedolphinos",
-              "id": 16696,
-              "children": []
-            },
-            {
-              "name": "PT-GuemLand",
-              "id": 47710,
-              "children": []
-            },
-            {
-              "name": "PT-IronHearts",
-              "id": 946,
-              "children": []
-            },
-            {
-              "name": "PT-Painguins",
-              "id": 13665,
-              "children": []
-            },
-            {
-              "name": "PT-PimpTuga",
-              "id": 37803,
-              "children": []
-            },
-            {
-              "name": "PT-ShadowRazers",
-              "id": 478,
-              "children": []
-            },
-            {
-              "name": "PT-Slinkys",
-              "id": 46978,
-              "children": []
-            },
-            {
-              "name": "PT-SunnyVale",
-              "id": 45415,
-              "children": []
-            },
-            {
-              "name": "PT-Torntuga",
-              "id": 41775,
-              "children": []
-            }
-          ]
-        },
-        {
           "name": "REK",
           "children": [
             {
@@ -1052,13 +987,13 @@
               "children": []
             },
             {
-              "name": "WTF Mugs Mum",
-              "id": 29865,
+              "name": "WTF Healers",
+              "id": 12863,
               "children": []
             },
             {
-              "name": "WTF Healers",
-              "id": 12863,
+              "name": "WTF Mugs Mum",
+              "id": 29865,
               "children": []
             }
           ]
@@ -1417,6 +1352,71 @@
           "name": "Phoenix Ascent",
           "id": 48640,
           "children": []
+        },
+        {
+          "name": "PT",
+          "children": [
+            {
+              "name": "PT-Calculated",
+              "id": 9041,
+              "children": []
+            },
+            {
+              "name": "PT-erodactyls",
+              "id": 41225,
+              "children": []
+            },
+            {
+              "name": "PT-Family",
+              "id": 230,
+              "children": []
+            },
+            {
+              "name": "PT-Guemedolphinos",
+              "id": 16696,
+              "children": []
+            },
+            {
+              "name": "PT-GuemLand",
+              "id": 47710,
+              "children": []
+            },
+            {
+              "name": "PT-IronHearts",
+              "id": 946,
+              "children": []
+            },
+            {
+              "name": "PT-Painguins",
+              "id": 13665,
+              "children": []
+            },
+            {
+              "name": "PT-PimpTuga",
+              "id": 37803,
+              "children": []
+            },
+            {
+              "name": "PT-ShadowRazers",
+              "id": 478,
+              "children": []
+            },
+            {
+              "name": "PT-Slinkys",
+              "id": 46978,
+              "children": []
+            },
+            {
+              "name": "PT-SunnyVale",
+              "id": 45415,
+              "children": []
+            },
+            {
+              "name": "PT-Torntuga",
+              "id": 41775,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Ravage",
