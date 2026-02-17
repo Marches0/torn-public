@@ -39,11 +39,6 @@
           "children": []
         },
         {
-          "name": "Capacity X",
-          "id": 16247,
-          "children": []
-        },
-        {
           "name": "Catch 22",
           "id": 37185,
           "children": []
@@ -287,6 +282,11 @@
               "children": []
             },
             {
+              "name": "The Rifle Elites",
+              "id": 47893,
+              "children": []
+            },
+            {
               "name": "The Rifle Hotel",
               "id": 31397,
               "children": []
@@ -369,6 +369,26 @@
             {
               "name": "Wargasm-DNA",
               "id": 37450,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "X",
+          "children": [
+            {
+              "name": "Capacity X",
+              "id": 16247,
+              "children": []
+            },
+            {
+              "name": "Med X",
+              "id": 9528,
+              "children": []
+            },
+            {
+              "name": "Phoenix X",
+              "id": 29107,
               "children": []
             }
           ]
@@ -473,7 +493,7 @@
           "children": [
             {
               "name": "Blue Rock Cartel (BRC)",
-              "id": 9528,
+              "id": 14386,
               "children": []
             },
             {
