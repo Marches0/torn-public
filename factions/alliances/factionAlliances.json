@@ -760,8 +760,18 @@
         },
         {
           "name": "Happy Vegemites",
-          "id": 14581,
-          "children": []
+          "children": [
+            {
+              "name": "Happy Vegemites",
+              "id": 14581,
+              "children": []
+            },
+            {
+              "name": "Deat's Feets",
+              "id": 34247,
+              "children": []
+            }
+          ]
         },
         {
           "name": "In Memory of the Fallen",
@@ -1199,11 +1209,6 @@
             {
               "name": "Monarch Chrysalis",
               "id": 8867,
-              "children": []
-            },
-            {
-              "name": "Monarch Contagion",
-              "id": 34247,
               "children": []
             },
             {
