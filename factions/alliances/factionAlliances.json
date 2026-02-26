@@ -4,21 +4,6 @@
       "name": "CRyPTo",
       "children": [
         {
-          "name": "Arcadia",
-          "children": [
-            {
-              "name": "Arcadia",
-              "id": 8938,
-              "children": []
-            },
-            {
-              "name": "Arcadia Rising",
-              "id": 41702,
-              "children": []
-            }
-          ]
-        },
-        {
           "name": "Asylum 2.0",
           "id": 16053,
           "children": []
@@ -102,26 +87,6 @@
           "name": "HeLa",
           "id": 7197,
           "children": []
-        },
-        {
-          "name": "Itsi Bitsi Bikini",
-          "children": [
-            {
-              "name": "[Redacted]",
-              "id": 5431,
-              "children": []
-            },
-            {
-              "name": "Aquarius",
-              "id": 22295,
-              "children": []
-            },
-            {
-              "name": "Itsi Bitsi Bikini",
-              "id": 2736,
-              "children": []
-            }
-          ]
         },
         {
           "name": "Legitimate Business",
@@ -684,6 +649,21 @@
           "children": []
         },
         {
+          "name": "Arcadia",
+          "children": [
+            {
+              "name": "Arcadia",
+              "id": 8938,
+              "children": []
+            },
+            {
+              "name": "Arcadia Rising",
+              "id": 41702,
+              "children": []
+            }
+          ]
+        },
+        {
           "name": "Aurora",
           "children": [
             {
@@ -799,6 +779,26 @@
             {
               "name": "Iron Rose Legion",
               "id": 51601,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Itsi Bitsi Bikini",
+          "children": [
+            {
+              "name": "[Redacted]",
+              "id": 5431,
+              "children": []
+            },
+            {
+              "name": "Aquarius",
+              "id": 22295,
+              "children": []
+            },
+            {
+              "name": "Itsi Bitsi Bikini",
+              "id": 2736,
               "children": []
             }
           ]
