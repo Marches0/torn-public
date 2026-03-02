@@ -929,6 +929,31 @@
           "children": []
         },
         {
+          "name": "The Next Level",
+          "children": [
+            {
+              "name": "Next Level Ascension",
+              "id": 1117,
+              "children": []
+            },
+            {
+              "name": "Next Level Mayhem",
+              "id": 525,
+              "children": []
+            },
+            {
+              "name": "The Next Level",
+              "id": 6731,
+              "children": []
+            },
+            {
+              "name": "The Next Level - Forge",
+              "id": 10739,
+              "children": []
+            }
+          ]
+        },
+        {
           "name": "Warband of the Fallen",
           "id": 36457,
           "children": []
