@@ -64,11 +64,6 @@
           "children": []
         },
         {
-          "name": "Deja",
-          "id": 9689,
-          "children": []
-        },
-        {
           "name": "Escensio Incursus",
           "id": 21368,
           "children": []
@@ -129,11 +124,6 @@
           ]
         },
         {
-          "name": "NNGO",
-          "id": 8537,
-          "children": []
-        },
-        {
           "name": "OverWatch",
           "id": 9517,
           "children": []
@@ -149,31 +139,6 @@
             {
               "name": "Paws",
               "id": 30490,
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": "REK",
-          "children": [
-            {
-              "name": "REK II",
-              "id": 10856,
-              "children": []
-            },
-            {
-              "name": "REK Juniors",
-              "id": 11108,
-              "children": []
-            },
-            {
-              "name": "REK&morty",
-              "id": 18090,
-              "children": []
-            },
-            {
-              "name": "Romania Elite Kommando",
-              "id": 18569,
               "children": []
             }
           ]
@@ -216,11 +181,6 @@
         {
           "name": "The Railroad",
           "id": 37498,
-          "children": []
-        },
-        {
-          "name": "The Resolute",
-          "id": 46442,
           "children": []
         },
         {
@@ -954,6 +914,21 @@
           ]
         },
         {
+          "name": "The Resolute",
+          "children": [
+            {
+              "name": "The Resolute",
+              "id": 46442,
+              "children": []
+            },
+            {
+              "name": "The Resolute PromiseGuard",
+              "id": 40664,
+              "children": []
+            }
+          ]
+        },
+        {
           "name": "Warband of the Fallen",
           "id": 36457,
           "children": []
@@ -1107,6 +1082,11 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": "Deja",
+          "id": 9689,
+          "children": []
         },
         {
           "name": "Desert Eagle",
@@ -1339,6 +1319,11 @@
           "children": []
         },
         {
+          "name": "NNGO",
+          "id": 8537,
+          "children": []
+        },
+        {
           "name": "Nub Army",
           "children": [
             {
@@ -1497,6 +1482,31 @@
           "name": "Ravage",
           "id": 15655,
           "children": []
+        },
+        {
+          "name": "REK",
+          "children": [
+            {
+              "name": "REK II",
+              "id": 10856,
+              "children": []
+            },
+            {
+              "name": "REK Juniors",
+              "id": 11108,
+              "children": []
+            },
+            {
+              "name": "REK&morty",
+              "id": 18090,
+              "children": []
+            },
+            {
+              "name": "Romania Elite Kommando",
+              "id": 18569,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Requiem",
@@ -1671,6 +1681,11 @@
         {
           "name": "Vulpes Vulpes",
           "id": 7709,
+          "children": []
+        },
+        {
+          "name": "War Crimes",
+          "id": 26043,
           "children": []
         },
         {
