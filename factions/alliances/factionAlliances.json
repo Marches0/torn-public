@@ -29,16 +29,6 @@
           "children": []
         },
         {
-          "name": "Blood Money",
-          "id": 41853,
-          "children": []
-        },
-        {
-          "name": "Brazilian Unit",
-          "id": 13842,
-          "children": []
-        },
-        {
           "name": "Catch 22",
           "id": 37185,
           "children": []
@@ -114,11 +104,6 @@
           "children": []
         },
         {
-          "name": "HeLa",
-          "id": 7197,
-          "children": []
-        },
-        {
           "name": "Legitimate Business",
           "id": 9305,
           "children": []
@@ -169,21 +154,6 @@
           "children": []
         },
         {
-          "name": "Paws",
-          "children": [
-            {
-              "name": "Claws to Paws",
-              "id": 51336,
-              "children": []
-            },
-            {
-              "name": "Paws",
-              "id": 30490,
-              "children": []
-            }
-          ]
-        },
-        {
           "name": "Premature Attackulation",
           "id": 9357,
           "children": []
@@ -221,16 +191,6 @@
         {
           "name": "The Groovy Guardians",
           "id": 48537,
-          "children": []
-        },
-        {
-          "name": "The House Of Retribution",
-          "id": 12912,
-          "children": []
-        },
-        {
-          "name": "The Railroad",
-          "id": 37498,
           "children": []
         },
         {
@@ -309,14 +269,19 @@
           ]
         },
         {
-          "name": "Toxic Reign",
-          "id": 40624,
-          "children": []
-        },
-        {
-          "name": "Toxic Spawn",
-          "id": 50568,
-          "children": []
+          "name": "Toxic",
+          "children": [
+            {
+              "name": "Toxic Reign",
+              "id": 40624,
+              "children": []
+            },
+            {
+              "name": "Toxic Spawn",
+              "id": 50568,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Tranquility Base",
