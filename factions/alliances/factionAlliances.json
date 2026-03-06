@@ -4,6 +4,26 @@
       "name": "CRyPTo",
       "children": [
         {
+          "name": "7DS*",
+          "children": [
+            {
+              "name": "7DS* Envy",
+              "id": 52040,
+              "children": []
+            },
+            {
+              "name": "7DS* Pride",
+              "id": 20554,
+              "children": []
+            },
+            {
+              "name": "7DS* Wrath",
+              "id": 49384,
+              "children": []
+            }
+          ]
+        },
+        {
           "name": "BlackWatch",
           "id": 48680,
           "children": []
@@ -40,6 +60,11 @@
               "name": "Chromatic",
               "id": 8151,
               "children": []
+            },
+            {
+              "name": "Chromatic Sloths",
+              "id": 44746,
+              "children": []
             }
           ]
         },
@@ -59,13 +84,28 @@
           ]
         },
         {
+          "name": "Chaos Theory",
+          "id": 44092,
+          "children": []
+        },
+        {
           "name": "Crime Syndicate",
           "id": 43325,
           "children": []
         },
         {
+          "name": "DarkCode",
+          "id": 10877,
+          "children": []
+        },
+        {
           "name": "Escensio Incursus",
           "id": 21368,
+          "children": []
+        },
+        {
+          "name": "FF-Zanarkand",
+          "id": 50579,
           "children": []
         },
         {
@@ -144,6 +184,11 @@
           ]
         },
         {
+          "name": "Premature Attackulation",
+          "id": 9357,
+          "children": []
+        },
+        {
           "name": "Sport Club",
           "id": 937,
           "children": []
@@ -174,6 +219,11 @@
           "children": []
         },
         {
+          "name": "The Groovy Guardians",
+          "id": 48537,
+          "children": []
+        },
+        {
           "name": "The House Of Retribution",
           "id": 12912,
           "children": []
@@ -194,6 +244,11 @@
             {
               "name": "The Revenant Reserve",
               "id": 48140,
+              "children": []
+            },
+            {
+              "name": "The Revenant Respawn",
+              "id": 50785,
               "children": []
             }
           ]
@@ -256,6 +311,16 @@
         {
           "name": "Toxic Reign",
           "id": 40624,
+          "children": []
+        },
+        {
+          "name": "Toxic Spawn",
+          "id": 50568,
+          "children": []
+        },
+        {
+          "name": "Tranquility Base",
+          "id": 50457,
           "children": []
         },
         {
