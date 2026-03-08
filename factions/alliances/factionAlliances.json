@@ -214,19 +214,9 @@
           "children": []
         },
         {
-          "name": "TNU",
-          "children": [
-            {
-              "name": "TNU - Headquarters",
-              "id": 7074,
-              "children": []
-            },
-            {
-              "name": "TNU - Underground Academy",
-              "id": 22814,
-              "children": []
-            }
-          ]
+          "name": "TNU - Headquarters",
+          "id": 7074,
+          "children": []
         },
         {
           "name": "Torn Galactic Republic",
@@ -984,11 +974,6 @@
           ]
         },
         {
-          "name": "Mortiferi",
-          "id": 15222,
-          "children": []
-        },
-        {
           "name": "Neon Cartel",
           "id": 41419,
           "children": []
@@ -1024,6 +1009,11 @@
             {
               "name": "Evolution",
               "id": 366,
+              "children": []
+            },
+            {
+              "name": "Ionization",
+              "id": 15222,
               "children": []
             },
             {
@@ -1392,6 +1382,11 @@
           "name": "WIT",
           "children": [
             {
+              "name": "WIT-Horizon",
+              "id": 41363,
+              "children": []
+            },
+            {
               "name": "WIT-Mayhem",
               "id": 40399,
               "children": []
@@ -1399,11 +1394,6 @@
             {
               "name": "WIT-Premier",
               "id": 7969,
-              "children": []
-            },
-            {
-              "name": "WIT-Revolution",
-              "id": 41363,
               "children": []
             }
           ]
