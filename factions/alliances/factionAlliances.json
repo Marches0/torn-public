@@ -417,11 +417,6 @@
           "name": "Itsi Bitsi Bikini",
           "children": [
             {
-              "name": "[Redacted]",
-              "id": 5431,
-              "children": []
-            },
-            {
               "name": "Aquarius",
               "id": 22295,
               "children": []
@@ -1464,6 +1459,21 @@
       "name": "YABA",
       "children": [
         {
+          "name": "[Redacted]",
+          "id": 5431,
+          "children": []
+        },
+        {
+          "name": "Aces Elite",
+          "id": 41768,
+          "children": []
+        },
+        {
+          "name": "Anarchist of Torn",
+          "id": 15547,
+          "children": []
+        },
+        {
           "name": "BlackWatch",
           "id": 48680,
           "children": []
@@ -1517,6 +1527,11 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": "Chaos Theory",
+          "id": 44092,
+          "children": []
         },
         {
           "name": "Crime Syndicate",
