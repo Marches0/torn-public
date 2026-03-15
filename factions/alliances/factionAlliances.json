@@ -867,7 +867,7 @@
               "children": []
             },
             {
-              "name": "IA Reign",
+              "name": "IA REIGN",
               "id": 10729,
               "children": []
             },
@@ -1619,6 +1619,21 @@
           ]
         },
         {
+          "name": "Premature Attackulation",
+          "children": [
+            {
+              "name": "PA - Mavericks",
+              "id": 50706,
+              "children": []
+            },
+            {
+              "name": "Premature Attackulation",
+              "id": 9357,
+              "children": []
+            }
+          ]
+        },
+        {
           "name": "Sport Club",
           "id": 937,
           "children": []
@@ -1667,8 +1682,13 @@
               "children": []
             },
             {
-              "name": "The Revenant Reserve",
-              "id": 48140,
+              "name": "The Revenant Respawn",
+              "id": 50785,
+              "children": []
+            },
+            {
+              "name": "The Revenant Retired",
+              "id": 50899,
               "children": []
             }
           ]
