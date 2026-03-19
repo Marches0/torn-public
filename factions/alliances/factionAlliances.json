@@ -319,9 +319,19 @@
           ]
         },
         {
-          "name": "DP Warriors",
-          "id": 25025,
-          "children": []
+          "name": "DP",
+          "children": [
+            {
+              "name": "DP Medics",
+              "id": 41028,
+              "children": []
+            },
+            {
+              "name": "DP Warriors",
+              "id": 25025,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Dystopia",
@@ -742,6 +752,11 @@
               "children": []
             },
             {
+              "name": "Combat Ready Rockstars",
+              "id": 48635,
+              "children": []
+            },
+            {
               "name": "CR-ACK",
               "id": 20211,
               "children": []
@@ -882,6 +897,11 @@
           "name": "Imperium",
           "children": [
             {
+              "name": "(INQ) Schola Progenium",
+              "id": 48039,
+              "children": []
+            },
+            {
               "name": "Imperial MediHaven",
               "id": 12255,
               "children": []
@@ -991,6 +1011,11 @@
         {
           "name": "Nub Army",
           "children": [
+            {
+              "name": "Nub Air Force",
+              "id": 54463,
+              "children": []
+            },
             {
               "name": "Nub Army",
               "id": 42435,
@@ -1730,8 +1755,18 @@
         },
         {
           "name": "The ZOO",
-          "id": 15151,
-          "children": []
+          "children": [
+            {
+              "name": "The ZOO",
+              "id": 15151,
+              "children": []
+            },
+            {
+              "name": "The ZOO - Night Shift",
+              "id": 47226,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Too Sober for this Shit",
