@@ -1795,8 +1795,18 @@
         },
         {
           "name": "Toxic Reign",
+          "children": [
+            {
+          "name": "Toxic Reign",
           "id": 40624,
           "children": []
+        },
+        {
+          "name": "Toxic Spawn",
+          "id": 50568,
+          "children": []
+        }
+          ]
         },
         {
           "name": "Vinerri",
@@ -1832,7 +1842,7 @@
               "children": []
             },
             {
-              "name": "Wargasm-DNA",
+              "name": "Wargasm DNA",
               "id": 37450,
               "children": []
             }
