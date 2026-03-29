@@ -932,6 +932,11 @@
           "name": "Monarch",
           "children": [
             {
+              "name": "Embassy",
+              "id": 37426,
+              "children": []
+            },
+            {
               "name": "Monarch Chrysalis",
               "id": 8867,
               "children": []
@@ -948,7 +953,7 @@
             },
             {
               "name": "Monarch Embassy",
-              "id": 37426,
+              "id": 37132,
               "children": []
             },
             {
@@ -1193,12 +1198,12 @@
             },
             {
               "name": "REK Juniors",
-              "id": 11108,
+              "id": 18090,
               "children": []
             },
             {
-              "name": "REK&morty",
-              "id": 18090,
+              "name": "REKtirement",
+              "id": 11108,
               "children": []
             },
             {
@@ -1354,6 +1359,11 @@
           ]
         },
         {
+          "name": "Unicorn Apocalypse",
+          "id": 51559,
+          "children": []
+        },
+        {
           "name": "Unity",
           "id": 20501,
           "children": []
@@ -1476,11 +1486,6 @@
         {
           "name": "Wraith",
           "id": 6984,
-          "children": []
-        },
-        {
-          "name": "Unicorn Apocalypse",
-          "id": 51559,
           "children": []
         }
       ]
@@ -1655,18 +1660,8 @@
         },
         {
           "name": "Premature Attackulation",
-          "children": [
-            {
-              "name": "PA - Mavericks",
-              "id": 50706,
-              "children": []
-            },
-            {
-              "name": "Premature Attackulation",
-              "id": 9357,
-              "children": []
-            }
-          ]
+          "id": 9357,
+          "children": []
         },
         {
           "name": "Sport Club",
@@ -1797,15 +1792,15 @@
           "name": "Toxic Reign",
           "children": [
             {
-          "name": "Toxic Reign",
-          "id": 40624,
-          "children": []
-        },
-        {
-          "name": "Toxic Spawn",
-          "id": 50568,
-          "children": []
-        }
+              "name": "Toxic Reign",
+              "id": 40624,
+              "children": []
+            },
+            {
+              "name": "Toxic Spawn",
+              "id": 50568,
+              "children": []
+            }
           ]
         },
         {
@@ -1832,6 +1827,11 @@
           "name": "Wargasm",
           "children": [
             {
+              "name": "Wargasm DNA",
+              "id": 37450,
+              "children": []
+            },
+            {
               "name": "Wargasm HQ",
               "id": 30085,
               "children": []
@@ -1839,11 +1839,6 @@
             {
               "name": "Wargasm Revival Medicare",
               "id": 41620,
-              "children": []
-            },
-            {
-              "name": "Wargasm DNA",
-              "id": 37450,
               "children": []
             }
           ]
