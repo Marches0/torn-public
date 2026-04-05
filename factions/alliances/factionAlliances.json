@@ -860,18 +860,8 @@
         },
         {
           "name": "Halos",
-          "children": [
-            {
-              "name": "Halos",
-              "id": 7093,
-              "children": []
-            },
-            {
-              "name": "Halos Pulse",
-              "id": 22631,
-              "children": []
-            }
-          ]
+          "id": 7093,
+          "children": []
         },
         {
           "name": "Imminent Apocalypse",
@@ -969,11 +959,6 @@
             {
               "name": "Monarch HQ",
               "id": 8336,
-              "children": []
-            },
-            {
-              "name": "Monarch Killers",
-              "id": 41853,
               "children": []
             },
             {
