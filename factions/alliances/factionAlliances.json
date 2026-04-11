@@ -458,7 +458,7 @@
             },
             {
               "name": "Siege",
-              "id": 9110,
+              "id": 20501,
               "children": []
             }
           ]
@@ -876,11 +876,6 @@
         {
           "name": "Imperium",
           "children": [
-            {
-              "name": "(INQ) Schola Progenium",
-              "id": 48039,
-              "children": []
-            },
             {
               "name": "Imperial MediHaven",
               "id": 12255,
@@ -1335,7 +1330,7 @@
         },
         {
           "name": "Unity",
-          "id": 20501,
+          "id": 9110,
           "children": []
         },
         {
