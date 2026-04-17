@@ -92,13 +92,13 @@
           "name": "Pennywise Clown",
           "children": [
             {
-              "name": "Pennywise Clown Plague",
-              "id": 11214,
+              "name": "Pennywise Clown Posse",
+              "id": 40774,
               "children": []
             },
             {
-              "name": "Pennywise Clown Posse",
-              "id": 40774,
+              "name": "Pennywise Medical",
+              "id": 11214,
               "children": []
             }
           ]
@@ -1427,6 +1427,11 @@
           "name": "Wolverines",
           "children": [
             {
+              "name": "Blues Busty Wolverines",
+              "id": 30820,
+              "children": []
+            },
+            {
               "name": "Lex Wolverines",
               "id": 10818,
               "children": []
@@ -1439,11 +1444,6 @@
             {
               "name": "Wolverines Health Org",
               "id": 10960,
-              "children": []
-            },
-            {
-              "name": "Wolverines Resurrected",
-              "id": 30820,
               "children": []
             }
           ]
