@@ -1157,11 +1157,6 @@
               "children": []
             },
             {
-              "name": "PT-Slinkys",
-              "id": 46978,
-              "children": []
-            },
-            {
               "name": "PT-SunnyVale",
               "id": 45415,
               "children": []
@@ -1169,6 +1164,11 @@
             {
               "name": "PT-Torntuga",
               "id": 41775,
+              "children": []
+            },
+            {
+              "name": "Slinkys",
+              "id": 46978,
               "children": []
             }
           ]
@@ -1727,7 +1727,7 @@
               "children": []
             },
             {
-              "name": "The Rifle Medics",
+              "name": "The Rifle Main",
               "id": 26154,
               "children": []
             }
