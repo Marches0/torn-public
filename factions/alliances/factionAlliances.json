@@ -1452,11 +1452,6 @@
           "name": "Wolverines",
           "children": [
             {
-              "name": "Blues Busty Wolverines",
-              "id": 30820,
-              "children": []
-            },
-            {
               "name": "Lex Wolverines",
               "id": 10818,
               "children": []
@@ -1464,6 +1459,11 @@
             {
               "name": "The Wolverines",
               "id": 22781,
+              "children": []
+            },
+            {
+              "name": "Wolverines Gone Nutz",
+              "id": 30820,
               "children": []
             },
             {
@@ -1566,6 +1566,11 @@
         {
           "name": "DarkCode",
           "id": 10877,
+          "children": []
+        },
+        {
+          "name": "Endless Fire Territory",
+          "id": 25464,
           "children": []
         },
         {
