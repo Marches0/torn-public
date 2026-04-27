@@ -1462,7 +1462,7 @@
               "children": []
             },
             {
-              "name": "Wolverines Gone Nutz",
+              "name": "Wolverines Gone Wild",
               "id": 30820,
               "children": []
             },
@@ -1492,6 +1492,31 @@
           "name": "[SA] Get Stuffed",
           "id": 8285,
           "children": []
+        },
+        {
+          "name": "7DS",
+          "children": [
+            {
+              "name": "7DS*: Greed",
+              "id": 8315,
+              "children": []
+            },
+            {
+              "name": "7DS*: Pride",
+              "id": 20554,
+              "children": []
+            },
+            {
+              "name": "7DS*: Sloth",
+              "id": 52040,
+              "children": []
+            },
+            {
+              "name": "7DS*: Wrath",
+              "id": 49384,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Aces Elite",
@@ -1732,7 +1757,7 @@
               "children": []
             },
             {
-              "name": "The Rifle Main",
+              "name": "The Rifle Medics",
               "id": 26154,
               "children": []
             }
