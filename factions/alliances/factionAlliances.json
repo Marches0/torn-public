@@ -89,6 +89,26 @@
           ]
         },
         {
+          "name": "Emus",
+          "children": [
+            {
+              "name": "EMU HQ",
+              "id": 34623,
+              "children": []
+            },
+            {
+              "name": "EMU-SADERS",
+              "id": 53808,
+              "children": []
+            },
+            {
+              "name": "Viking Emus",
+              "id": 11898,
+              "children": []
+            }
+          ]
+        },
+        {
           "name": "Pennywise Clown",
           "children": [
             {
