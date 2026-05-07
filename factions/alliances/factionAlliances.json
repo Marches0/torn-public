@@ -720,8 +720,18 @@
         },
         {
           "name": "Abusement Park",
-          "id": 39756,
-          "children": []
+          "children": [
+            {
+              "name": "Abusement Park",
+              "id": 39756,
+              "children": []
+            },
+            {
+              "name": "Abusement Parking Lot",
+              "id": 53576,
+              "children": []
+            }
+          ]
         },
         {
           "name": "AQUA-Poseidon",
@@ -1359,6 +1369,11 @@
             {
               "name": "Undead Crows",
               "id": 16443,
+              "children": []
+            },
+            {
+              "name": "Undead Havoc",
+              "id": 19297,
               "children": []
             },
             {
