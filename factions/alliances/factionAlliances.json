@@ -1118,12 +1118,12 @@
           "children": [
             {
               "name": "Occul2us",
-              "id": 9171,
+              "id": 9728,
               "children": []
             },
             {
               "name": "Occul3us",
-              "id": 9728,
+              "id": 9171,
               "children": []
             },
             {
@@ -1132,11 +1132,6 @@
               "children": []
             }
           ]
-        },
-        {
-          "name": "Peaky CS",
-          "id": 41234,
-          "children": []
         },
         {
           "name": "Phoenix Ascent",
@@ -1646,11 +1641,6 @@
         {
           "name": "Escensio Incursus",
           "id": 21368,
-          "children": []
-        },
-        {
-          "name": "HeLa",
-          "id": 7197,
           "children": []
         },
         {
