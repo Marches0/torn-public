@@ -88,7 +88,7 @@
             },
             {
               "name": "Shadow Reapers BRC",
-              "id": 47725,
+              "id": 24884,
               "children": []
             }
           ]
@@ -211,6 +211,11 @@
         {
           "name": "Kingdom of Asgard",
           "id": 40692,
+          "children": []
+        },
+        {
+          "name": "SINIST3R",
+          "id": 51997,
           "children": []
         },
         {
