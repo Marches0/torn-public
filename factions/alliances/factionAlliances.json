@@ -802,16 +802,6 @@
               "children": []
             },
             {
-              "name": "Combat Ready Massacre",
-              "id": 51064,
-              "children": []
-            },
-            {
-              "name": "Combat Ready Mayhem",
-              "id": 45116,
-              "children": []
-            },
-            {
               "name": "Combat Ready Rockstars",
               "id": 48635,
               "children": []
@@ -1209,11 +1199,6 @@
             {
               "name": "PT-Torntuga",
               "id": 41775,
-              "children": []
-            },
-            {
-              "name": "Slinkys",
-              "id": 46978,
               "children": []
             }
           ]
