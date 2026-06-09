@@ -802,11 +802,6 @@
               "children": []
             },
             {
-              "name": "Combat Ready Rockstars",
-              "id": 48635,
-              "children": []
-            },
-            {
               "name": "CR-ACK",
               "id": 20211,
               "children": []
@@ -899,9 +894,19 @@
           ]
         },
         {
-          "name": "Glory to Heroes",
-          "id": 16057,
-          "children": []
+          "name": "Glory",
+          "children": [
+            {
+              "name": "Glory to Heroes",
+              "id": 16057,
+              "children": []
+            },
+            {
+              "name": "Glory to Saints",
+              "id": 49431,
+              "children": []
+            }
+          ]
         },
         {
           "name": "Good Guys",
@@ -1599,6 +1604,11 @@
             {
               "name": "Chromatic",
               "id": 8151,
+              "children": []
+            },
+            {
+              "name": "Chromatic Sloths",
+              "id": 44746,
               "children": []
             }
           ]
