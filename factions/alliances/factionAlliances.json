@@ -1607,7 +1607,7 @@
               "children": []
             },
             {
-              "name": "Chromatic Sloths",
+              "name": "THE BLOODSHED",
               "id": 44746,
               "children": []
             }
@@ -1639,13 +1639,13 @@
           "children": []
         },
         {
-          "name": "Endless Fire Territory",
-          "id": 25464,
+          "name": "Escensio Incursus",
+          "id": 21368,
           "children": []
         },
         {
-          "name": "Escensio Incursus",
-          "id": 21368,
+          "name": "Equinox",
+          "id": 10940,
           "children": []
         },
         {
@@ -1724,6 +1724,11 @@
           "children": []
         },
         {
+          "name": "R.O.S.E",
+          "id": 50502,
+          "children": []
+        },
+        {
           "name": "Sport Club",
           "id": 937,
           "children": []
@@ -1747,6 +1752,11 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": "The Black Knights",
+          "id": 18420,
+          "children": []
         },
         {
           "name": "The Covenant",
@@ -1889,6 +1899,11 @@
           "children": []
         },
         {
+          "name": "Waddling Warriors",
+          "id": 50900,
+          "children": []
+        },
+        {
           "name": "Wargasm",
           "children": [
             {
@@ -1913,6 +1928,11 @@
           "children": [
             {
               "name": "Capacity X",
+              "id": 9357,
+              "children": []
+            },
+            {
+              "name": "Sales X",
               "id": 16247,
               "children": []
             },
