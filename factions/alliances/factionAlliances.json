@@ -1704,21 +1704,6 @@
           "children": []
         },
         {
-          "name": "Paws",
-          "children": [
-            {
-              "name": "Claws to Paws",
-              "id": 51336,
-              "children": []
-            },
-            {
-              "name": "Paws",
-              "id": 30490,
-              "children": []
-            }
-          ]
-        },
-        {
           "name": "R.O.S.E",
           "id": 50502,
           "children": []
