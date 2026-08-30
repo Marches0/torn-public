@@ -1359,31 +1359,26 @@
           "children": []
         },
         {
-          "name": "Undead",
+          "name": "Unchained",
           "children": [
             {
-              "name": "Undead Basilisk",
+              "name": "Unchained Basilisk",
               "id": 50553,
               "children": []
             },
             {
-              "name": "Undead Crows",
-              "id": 16443,
-              "children": []
-            },
-            {
-              "name": "Undead Havoc",
-              "id": 19297,
-              "children": []
-            },
-            {
-              "name": "Undead Hydra",
+              "name": "Unchained Hydra",
               "id": 39226,
               "children": []
             },
             {
-              "name": "Undead Ravens",
+              "name": "Unchained Shadows",
               "id": 15286,
+              "children": []
+            },
+            {
+              "name": "Unchained Wraiths",
+              "id": 16381,
               "children": []
             }
           ]
