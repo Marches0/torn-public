@@ -1842,6 +1842,11 @@
           "name": "Toxic Reign",
           "children": [
             {
+              "name": "Toxic Blight",
+              "id": 51011,
+              "children": []
+            },
+            {
               "name": "Toxic Reign",
               "id": 40624,
               "children": []
