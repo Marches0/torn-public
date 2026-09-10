@@ -114,19 +114,9 @@
           ]
         },
         {
-          "name": "Pennywise Clown",
-          "children": [
-            {
-              "name": "Pennywise Clown Posse",
-              "id": 40774,
-              "children": []
-            },
-            {
-              "name": "Pennywise Medical",
-              "id": 11214,
-              "children": []
-            }
-          ]
+          "name": "Pennywise Clown Posse",
+          "id": 40774,
+          "children": []
         },
         {
           "name": "Shrooms of Doom",
