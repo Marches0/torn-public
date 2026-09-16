@@ -1012,6 +1012,11 @@
               "children": []
             },
             {
+              "name": "Monarch Triumvirate",
+              "id": 41066,
+              "children": []
+            },
+            {
               "name": "Monarch Vanguard",
               "id": 21040,
               "children": []
@@ -1324,6 +1329,22 @@
             {
               "name": "The Brotherhood of Light",
               "id": 17924,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "The Hangout",
+          "id": 23193,
+          "children": [
+            {
+              "name": "The Hangout",
+              "id": 41853,
+              "children": []
+            },
+            {
+              "name": "The Hangover",
+              "id": 9370,
               "children": []
             }
           ]
@@ -1896,11 +1917,6 @@
         {
           "name": "X",
           "children": [
-            {
-              "name": "Cache 4saleX",
-              "id": 16247,
-              "children": []
-            },
             {
               "name": "Capacity X",
               "id": 9357,
