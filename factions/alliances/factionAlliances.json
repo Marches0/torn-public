@@ -219,11 +219,6 @@
           "children": []
         },
         {
-          "name": "The Red Circle",
-          "id": 22932,
-          "children": []
-        },
-        {
           "name": "The Untouchables",
           "id": 6799,
           "children": []
@@ -1919,6 +1914,11 @@
             {
               "name": "Capacity X",
               "id": 9357,
+              "children": []
+            },
+            {
+              "name": "Circle X",
+              "id": 22932,
               "children": []
             },
             {
