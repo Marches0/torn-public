@@ -569,11 +569,6 @@
           "children": []
         },
         {
-          "name": "Retaliation",
-          "id": 10296,
-          "children": []
-        },
-        {
           "name": "Ruthless Reborn",
           "id": 8062,
           "children": []
@@ -1654,9 +1649,19 @@
           "children": []
         },
         {
-          "name": "Legitimate Business",
-          "id": 9305,
-          "children": []
+          "name": "Legitimate",
+          "children": [
+            {
+              "name": "Legitimate Business",
+              "id": 9305,
+              "children": []
+            },
+            {
+              "name": "Legitimate Remnants",
+              "id": 10296,
+              "children": []
+            }
+          ]
         },
         {
           "name": "MORTAL LEGENDS",
